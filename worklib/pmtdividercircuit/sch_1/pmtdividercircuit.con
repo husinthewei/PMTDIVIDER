@@ -1,0 +1,34 @@
+(
+  (version 16.6)
+  (tool
+    (creator "conceptHDL")
+    (last "conceptHDL")
+  )
+  (library "pmtdivider_lib")
+  (design "pmtdividercircuit"
+    (lastIds
+      (lastInstanceId 1)
+      (lastInstTermId 2)
+    )
+    (cells
+      ("S2" "rsmd1206" "parts_lib" "sym_1"
+        (terms
+          ("T1" "a" 0 0 1)
+          ("T2" "b" 0 0 2)
+        )
+      )
+    )
+
+    (instances
+      ("I1" "page1_i1" "S2"
+        (pins
+          ("M1" "T1" 0 0
+          )
+          ("M2" "T2" 0 0
+          )
+        )
+      )
+    )
+
+  )
+)

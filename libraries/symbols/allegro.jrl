@@ -1,0 +1,88 @@
+\t (00:01:56) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:01:56)     Journal start - Wed Jan 11 16:35:00 2017
+\t (00:01:56)         Host=HEP-PC User=HEP Pid=9776 CPUs=2
+\t (00:01:56) 
+\d (00:01:56) Database opened: C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/TantB.dra.brd
+\i (00:01:56) generaledit 
+\i (00:01:57) zoom out 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out 41570 14716
+\i (00:01:57) trapsize 211
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 41570 14716
+\i (00:01:57) trapsize 106
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 30870 14716
+\i (00:01:57) trapsize 53
+\t (00:01:58) Pick to complete the window.
+\i (00:01:59) zoom out 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom out 32626 15128
+\i (00:01:59) trapsize 106
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 32625 15129
+\i (00:01:59) trapsize 53
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 32626 15129
+\i (00:01:59) trapsize 26
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 32626 15130
+\i (00:01:59) trapsize 13
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 32610 15132
+\i (00:01:59) trapsize 7
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 32610 15133
+\i (00:01:59) trapsize 3
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 32610 15133
+\i (00:01:59) trapsize 2
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 32610 15133
+\i (00:01:59) trapsize 1
+\i (00:02:00) zoom out 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom out 32607 15134
+\i (00:02:00) trapsize 2
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 32606 15134
+\i (00:02:00) trapsize 1
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 32606 15134
+\i (00:02:00) trapsize 1
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 32606 15135
+\i (00:02:00) trapsize 1
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 32606 15135
+\i (00:02:00) trapsize 1
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 32606 15135
+\i (00:02:00) trapsize 1
+\i (00:02:00) pick 32609 15135
+\t (00:02:00) last pick:  32609  15135
+\i (00:02:00) setwindow pcb
+\i (00:02:00) generaledit 
+\i (00:02:02) new 
+\i (00:02:04) newdrawfillin "menu_cancel"
+\i (00:02:04) generaledit 
+\i (00:02:06) open 
+\i (00:02:21) fillin "C:\Users\HEP\Documents\GitHub\PMTPulser\worklib\simplepulser\physical\pmtpulser.brd"
+\i (00:02:21) cd "C:\Users\HEP\Documents\GitHub\PMTPulser\worklib\simplepulser\physical"
+\t (00:02:21) Opening existing design...
+\i (00:02:21) trapsize 168
+\t (00:02:21)     Journal end - Wed Jan 11 16:35:25 2017

@@ -1,0 +1,170 @@
+(Cell	pot_pv37
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/21/16,12:12:55)
+
+			(User	weiwei)
+
+			(Path	parts_lib.pot_pv37)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/04/17,20:46:19)
+
+			(User	HEP)
+
+			(Path	parts_lib.pot_pv37)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000524a58c5)
+
+			(Primitives	2
+
+				(Primitive	POT_PV37
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/21/16,12:15:04)
+
+							(User	weiwei)
+
+							(Path	parts_lib.pot_pv37)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	POT_PV37
+
+							(PackType	POT_PV37)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	POT_PV37_1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/21/16,13:11:44)
+
+							(User	weiwei)
+
+							(Path	parts_lib.pot_pv37)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	POT_PV37_1
+
+							(PackType	POT_PV37_1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b6a0382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c2a0378)
+
+)
+
