@@ -1,0 +1,590 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 19-May-2017 AT 14:47:27 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PMTDIVIDERCIRCUIT';
+ POST_TIME='19-May-2017 AT 14:47:27';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CSMD1210-0.022UF,20%,1210,2KV':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I15@PARTS_LIB.CSMD1210(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15@parts_lib.csmd1210(c~
+hips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15@parts_lib.csmd1210(c~
+hips)',
+ PATH='I15',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TC='0',
+ KNEE='CBMAX',
+ CURRENT='CIMAX',
+ TOL_ON_OFF='ON',
+ SLOPE='CSMAX',
+ POSTOL='20%',
+ PACKTYPE='1210',
+ NEGTOL='20%',
+ MAX_TEMP='CTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(1200,3150)',
+ ROT='0',
+ VER='1',
+ VALUE='0.022UF',
+ TOL='20%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='CSMD1210-0.022UF,20%,1210,2KV',
+ VOLTAGE='2KV',
+ PRIM_FILE='./libraries/parts_lib/csmd1210/chips/chips.prt';
+
+PART_NAME
+ C2 'CSMD1210-0.022UF,20%,1210,2KV':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I17@PARTS_LIB.CSMD1210(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17@parts_lib.csmd1210(c~
+hips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17@parts_lib.csmd1210(c~
+hips)',
+ PATH='I17',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TC='0',
+ KNEE='CBMAX',
+ CURRENT='CIMAX',
+ TOL_ON_OFF='ON',
+ SLOPE='CSMAX',
+ POSTOL='20%',
+ PACKTYPE='1210',
+ NEGTOL='20%',
+ MAX_TEMP='CTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(1600,3150)',
+ ROT='0',
+ VER='1',
+ VALUE='0.022UF',
+ TOL='20%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='CSMD1210-0.022UF,20%,1210,2KV',
+ VOLTAGE='2KV',
+ PRIM_FILE='./libraries/parts_lib/csmd1210/chips/chips.prt';
+
+PART_NAME
+ C3 'CSMD1210-0.022UF,20%,1210,2KV':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I16@PARTS_LIB.CSMD1210(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16@parts_lib.csmd1210(c~
+hips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16@parts_lib.csmd1210(c~
+hips)',
+ PATH='I16',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TC='0',
+ KNEE='CBMAX',
+ CURRENT='CIMAX',
+ TOL_ON_OFF='ON',
+ SLOPE='CSMAX',
+ POSTOL='20%',
+ PACKTYPE='1210',
+ NEGTOL='20%',
+ MAX_TEMP='CTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(2000,3150)',
+ ROT='0',
+ VER='1',
+ VALUE='0.022UF',
+ TOL='20%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='CSMD1210-0.022UF,20%,1210,2KV',
+ VOLTAGE='2KV',
+ PRIM_FILE='./libraries/parts_lib/csmd1210/chips/chips.prt';
+
+PART_NAME
+ J1 'CONN14':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I18@PARTS_LIB.CONN14(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18@parts_lib.conn14(chi~
+ps)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18@parts_lib.conn14(chi~
+ps)',
+ PATH='I18',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-200,4950)',
+ ROT='1',
+ VER='1',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='CONN14',
+ PRIM_FILE='./libraries/parts_lib/conn14/chips/chips.prt';
+
+PART_NAME
+ R1 'RSMD1206-390K,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I2@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2@parts_lib.rsmd1206(ch~
+ips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2@parts_lib.rsmd1206(ch~
+ips)',
+ PATH='I2',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(-1650,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='390K',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-390K,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R2 'RSMD1206-1.44M,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I3@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3@parts_lib.rsmd1206(ch~
+ips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3@parts_lib.rsmd1206(ch~
+ips)',
+ PATH='I3',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(-1250,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='1.44M',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-1.44M,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R3 'RSMD1206-1M,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I12@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12@parts_lib.rsmd1206(c~
+hips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12@parts_lib.rsmd1206(c~
+hips)',
+ PATH='I12',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(-1000,4250)',
+ ROT='0',
+ VER='1',
+ VALUE='1M',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-1M,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R4 'RSMD1206-450K,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I5@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5@parts_lib.rsmd1206(ch~
+ips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5@parts_lib.rsmd1206(ch~
+ips)',
+ PATH='I5',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(-800,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='450K',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-450K,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R5 'RSMD1206-450K,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I4@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4@parts_lib.rsmd1206(ch~
+ips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4@parts_lib.rsmd1206(ch~
+ips)',
+ PATH='I4',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(-400,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='450K',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-450K,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R6 'RSMD1206-300K,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I6@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6@parts_lib.rsmd1206(ch~
+ips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6@parts_lib.rsmd1206(ch~
+ips)',
+ PATH='I6',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(0,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='300K',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-300K,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R7 'RSMD1206-300K,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I7@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7@parts_lib.rsmd1206(ch~
+ips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7@parts_lib.rsmd1206(ch~
+ips)',
+ PATH='I7',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(400,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='300K',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-300K,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R8 'RSMD1206-300K,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I8@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8@parts_lib.rsmd1206(ch~
+ips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8@parts_lib.rsmd1206(ch~
+ips)',
+ PATH='I8',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(800,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='300K',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-300K,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R9 'RSMD1206-51,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I1@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1@parts_lib.rsmd1206(ch~
+ips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1@parts_lib.rsmd1206(ch~
+ips)',
+ PATH='I1',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(950,3900)',
+ ROT='1',
+ VER='1',
+ VALUE='51',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-51,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R10 'RSMD1206-300K,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I9@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9@parts_lib.rsmd1206(ch~
+ips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9@parts_lib.rsmd1206(ch~
+ips)',
+ PATH='I9',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(1200,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='300K',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-300K,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R11 'RSMD1206-51,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I13@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13@parts_lib.rsmd1206(c~
+hips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13@parts_lib.rsmd1206(c~
+hips)',
+ PATH='I13',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(1400,3900)',
+ ROT='1',
+ VER='1',
+ VALUE='51',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-51,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R12 'RSMD1206-300K,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I10@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10@parts_lib.rsmd1206(c~
+hips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10@parts_lib.rsmd1206(c~
+hips)',
+ PATH='I10',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(1600,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='300K',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-300K,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R13 'RSMD1206-51,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I14@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14@parts_lib.rsmd1206(c~
+hips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14@parts_lib.rsmd1206(c~
+hips)',
+ PATH='I14',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(1800,3900)',
+ ROT='1',
+ VER='1',
+ VALUE='51',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-51,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+PART_NAME
+ R14 'RSMD1206-300K,5%,1206':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I11@PARTS_LIB.RSMD1206(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11@parts_lib.rsmd1206(c~
+hips)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11@parts_lib.rsmd1206(c~
+hips)',
+ PATH='I11',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ TOL_ON_OFF='ON',
+ TC2='RTMPO',
+ TC1='RTMPL',
+ SLOPE='RSMAX',
+ POWER='0.25W',
+ POSTOL='5%',
+ PACKTYPE='1206',
+ NEGTOL='5%',
+ MAX_TEMP='RTMAX',
+ IC='UNDEF',
+ DIST='FLAT',
+ PHYS_PAGE='1',
+ XY='(2000,3500)',
+ ROT='0',
+ VER='1',
+ VALUE='300K',
+ TOL='5%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='RSMD1206-300K,5%,1206',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+
+END.

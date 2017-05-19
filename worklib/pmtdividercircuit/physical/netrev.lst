@@ -1,0 +1,94 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : divider.brd                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri May 19 15:47:36 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'C:\Users\HEP\Documents\GitHub\PMTDivider\worklib\pmtdividercircuit\packaged';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/physical/divider.brd';
+NEW_BOARD_NAME 'C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/physical/divider.brd';
+
+CmdLine: netrev -proj C:\Users\HEP\Documents\GitHub\PMTDivider\pmtdivider.cpm -y 1 -O C:\Users\HEP\Documents\GitHub\PMTDivider\worklib\pmtdividercircuit\physical\divider.brd C:\Users\HEP\Documents\GitHub\PMTDivider\worklib\pmtdividercircuit\physical\divider.brd -$
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstchip.dat 
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstchip.dat (00:00:00.28)
+Starting to read C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstxprt.dat 
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstxnet.dat 
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+
+
+===========================================================
+Start Constraint Diff3 Import
+	Constraint File:    C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstcmdb.dat
+	Allegro Baseline:   C:/Users/HEP/AppData/Local/Temp/#Taaaaad06824.tmp
+	Start time: Fri May 19 15:47:36 2017
+===========================================================
+===========================================================
+Finished Constraint Update	Time: Fri May 19 15:47:37 2017
+===========================================================
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/ 
+           C:/Users/HEP/Documents/GitHub/PMTDivider/libraries/symbols 
+
+PADPATH =  C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/ 
+           C:/Users/HEP/Documents/GitHub/PMTDivider/libraries/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on May 19 15:47:36 2017
+   DESIGN NAME : 'PMTDIVIDERCIRCUIT'
+   PACKAGING ON 19-May-2017 AT 15:47:34
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   DIRECTORIES  <none>
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   LIBRARIES  'pmtdivider_lib' 'standard' 'Symbols' 'rf_comp_lib' 'parts_lib'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:45
+elapsed time  0:00:01
+

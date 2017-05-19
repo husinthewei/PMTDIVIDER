@@ -68,3 +68,13 @@ lower for signal
 What else:
 Modules
 Test points
+
+
+
+ADDING PART VALUE
+1. Librarian Mode
+2. Part Developer
+3. Part Table
+4. Edit
+5. Part Rows
+6. Add

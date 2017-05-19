@@ -1,0 +1,1 @@
+CSMD1210 voltage says 2k. Not actual sure what voltage rating should be.

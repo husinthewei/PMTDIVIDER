@@ -5,4 +5,43 @@
 		<property name="TOL"  value="5%"/>
 		<property name="VALUE"  value="51"/>
 	</component>
+	<component cell="rsmd1206" library="parts_lib" partname="RSMD1206" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="1206"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="390K"/>
+	</component>
+	<component cell="rsmd1206" library="parts_lib" partname="RSMD1206" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="1206"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="1.44M"/>
+	</component>
+	<component cell="rsmd1206" library="parts_lib" partname="RSMD1206" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="1206"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="450K"/>
+	</component>
+	<component cell="rsmd1206" library="parts_lib" partname="RSMD1206" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="1206"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="300"/>
+	</component>
+	<component cell="rsmd1206" library="parts_lib" partname="RSMD1206" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="1206"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="300K"/>
+	</component>
+	<component cell="rsmd1206" library="parts_lib" partname="RSMD1206" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="1206"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="1M"/>
+	</component>
+	<component cell="csmd1210" library="parts_lib" partname="CSMD1210" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="1210"/>
+		<property name="TOL"  value="20%"/>
+		<property name="VALUE"  value="0.022UF"/>
+		<property name="VOLTAGE"  value="2KV"/>
+	</component>
+	<component cell="conn14" library="parts_lib" partname="CONN14" partno="" quantity="1" >
+		<property name="PACK_TYPE"  value="HDR14"/>
+	</component>
 </sc:shoppingCart>

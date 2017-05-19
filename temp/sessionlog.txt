@@ -1,0 +1,13 @@
+05/19/17  14:37:12		Opening project C:/Users/HEP/Documents/GitHub/PMTDivider/pmtdivider.cpm
+05/19/17  14:37:12		cdslib C:/Users/HEP/Documents/GitHub/PMTDivider/cds.lib opened
+05/19/17  14:37:12		Project C:/Users/HEP/Documents/GitHub/PMTDivider/pmtdivider.cpm opened
+05/19/17  14:37:19		Loading cell conn14 from library parts_lib
+05/19/17  14:37:19		Loading view sym_1 of cell conn14
+05/19/17  14:37:19		Loading view chips of cell conn14
+05/19/17  14:37:19		Loading view entity of cell conn14
+05/19/17  14:37:19		Loading cell conn14 from library parts_lib
+05/19/17  14:37:19		Analyzing view relationships of cell conn14 in library parts_lib
+05/19/17  14:37:19		Completed loading cell conn14 from library parts_lib
+05/19/17  14:37:19		Starting validations on cell conn14 of library parts_lib
+05/19/17  14:37:19		Completed validations on cell conn14 of library parts_lib
+05/19/17  14:37:26		Project C:/Users/HEP/Documents/GitHub/PMTDivider/pmtdivider.cpm is closed.
