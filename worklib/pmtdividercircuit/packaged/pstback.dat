@@ -1,4 +1,4 @@
-{ Packager-XL run on 19-May-2017 AT 15:47:34 }
+{ Packager-XL run on 26-May-2017 AT 11:42:59 }
 FILE_TYPE = BACK_ANNOTATION;
 DRAWING = "@pmtdivider_lib.pmtdividercircuit(sch_1):page1";
 BODY = "RSMD1206","I1": LOCATION = "R9" #&CDS_LOCATION = "R9" &SEC = "1" #&CDS_SEC = "1";

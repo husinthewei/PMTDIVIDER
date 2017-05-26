@@ -7,7 +7,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 9 )
+			( logicalViewRevNum 12 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -446,6 +446,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R9" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R9.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R9.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2"
 				( attribute "CDS_LIB" "parts_lib"
@@ -528,6 +540,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R1" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R1.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R1.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3"
 				( attribute "CDS_LIB" "parts_lib"
@@ -610,6 +634,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R2" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R2.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R2.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4"
 				( attribute "CDS_LIB" "parts_lib"
@@ -692,6 +728,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R5" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R5.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R5.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5"
 				( attribute "CDS_LIB" "parts_lib"
@@ -774,6 +822,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R4" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R4.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R4.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6"
 				( attribute "CDS_LIB" "parts_lib"
@@ -856,6 +916,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R6" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R6.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R6.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7"
 				( attribute "CDS_LIB" "parts_lib"
@@ -938,6 +1010,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R7" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R7.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R7.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1020,6 +1104,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R8" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R8.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R8.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1102,6 +1198,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R10" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R10.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R10.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1184,6 +1292,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R12" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R12.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R12.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1266,6 +1386,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R14" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R14.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R14.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1348,6 +1480,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R3" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R3.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R3.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1430,6 +1574,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R11" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R11.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R11.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1512,6 +1668,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "R13" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "R13.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "R13.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1597,6 +1765,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "C1" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "C1.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "C1.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1682,6 +1862,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "C3" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "C3.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "C3.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1767,6 +1959,18 @@
 					( Origin gPackager )
 				)
 				( objectStatus "C2" )
+				( pin "a(0)"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "C2.1" )
+				)
+				( pin "b(0)"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "C2.2" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1806,6 +2010,90 @@
 					( Origin gPackager )
 				)
 				( objectStatus "J1" )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.1" )
+				)
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.2" )
+				)
+				( pin "\3\"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.3" )
+				)
+				( pin "\4\"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.4" )
+				)
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.5" )
+				)
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.6" )
+				)
+				( pin "\7\"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.7" )
+				)
+				( pin "\8\"
+					( attribute "PN" "8"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.8" )
+				)
+				( pin "\9\"
+					( attribute "PN" "9"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.9" )
+				)
+				( pin "\10\"
+					( attribute "PN" "10"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.10" )
+				)
+				( pin "\11\"
+					( attribute "PN" "11"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.11" )
+				)
+				( pin "\12\"
+					( attribute "PN" "12"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.12" )
+				)
+				( pin "\13\"
+					( attribute "PN" "13"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.13" )
+				)
+				( pin "\14\"
+					( attribute "PN" "14"
+						( Origin gPackager )
+					)
+					( objectStatus "J1.14" )
+				)
 			)
 			( gate "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1838,388 +2126,100 @@
 				( attribute "CDS_LOCATION" "J2"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J2"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J2"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
 					( Origin gPackager )
 				)
 				( objectStatus "J2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
+				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.1" )
 				)
-				( objectStatus "R9.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
+				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.2" )
 				)
-				( objectStatus "R9.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
+				( pin "\3\"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.3" )
 				)
-				( objectStatus "R1.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
+				( pin "\4\"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.4" )
 				)
-				( objectStatus "R1.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
+				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.5" )
 				)
-				( objectStatus "R2.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
+				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.6" )
 				)
-				( objectStatus "R2.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
+				( pin "\7\"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.7" )
 				)
-				( objectStatus "R5.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
+				( pin "\8\"
+					( attribute "PN" "8"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.8" )
 				)
-				( objectStatus "R5.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
+				( pin "\9\"
+					( attribute "PN" "9"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.9" )
 				)
-				( objectStatus "R4.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
+				( pin "\10\"
+					( attribute "PN" "10"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.10" )
 				)
-				( objectStatus "R4.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
+				( pin "\11\"
+					( attribute "PN" "11"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.11" )
 				)
-				( objectStatus "R6.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
+				( pin "\12\"
+					( attribute "PN" "12"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.12" )
 				)
-				( objectStatus "R6.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
+				( pin "\13\"
+					( attribute "PN" "13"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.13" )
 				)
-				( objectStatus "R7.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
+				( pin "\14\"
+					( attribute "PN" "14"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.14" )
 				)
-				( objectStatus "R7.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "R8.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "R8.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "R10.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "R10.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "R12.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "R12.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "R14.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "R14.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "R3.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "R3.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "R11.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "R11.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "R13.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "R13.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "C1.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "C1.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "C3.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "C3.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17:a(0)"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "C2.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17:b(0)"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "C2.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\1\"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\2\"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\3\"
-				( attribute "PN" "3"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.3" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\4\"
-				( attribute "PN" "4"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.4" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\5\"
-				( attribute "PN" "5"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.5" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\6\"
-				( attribute "PN" "6"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.6" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\7\"
-				( attribute "PN" "7"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.7" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\8\"
-				( attribute "PN" "8"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.8" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\9\"
-				( attribute "PN" "9"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.9" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\10\"
-				( attribute "PN" "10"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.10" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\11\"
-				( attribute "PN" "11"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.11" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\12\"
-				( attribute "PN" "12"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.12" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\13\"
-				( attribute "PN" "13"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.13" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18:\14\"
-				( attribute "PN" "14"
-					( Origin gPackager )
-				)
-				( objectStatus "J1.14" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\1\"
-				( attribute "PN" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.1" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\2\"
-				( attribute "PN" "2"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.2" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\3\"
-				( attribute "PN" "3"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.3" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\4\"
-				( attribute "PN" "4"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.4" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\5\"
-				( attribute "PN" "5"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.5" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\6\"
-				( attribute "PN" "6"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.6" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\7\"
-				( attribute "PN" "7"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.7" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\8\"
-				( attribute "PN" "8"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.8" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\9\"
-				( attribute "PN" "9"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.9" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\10\"
-				( attribute "PN" "10"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.10" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\11\"
-				( attribute "PN" "11"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.11" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\12\"
-				( attribute "PN" "12"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.12" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\13\"
-				( attribute "PN" "13"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.13" )
-			)
-			( pin "@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19:\14\"
-				( attribute "PN" "14"
-					( Origin gPackager )
-				)
-				( objectStatus "J2.14" )
 			)
 		)
 	)

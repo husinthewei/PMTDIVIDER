@@ -7,7 +7,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 8 )
+			( logicalViewRevNum 11 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -2123,34 +2123,102 @@
 				( attribute "CDS_PART_NAME" "CONN14_HDR14"
 					( Origin gPackager )
 				)
-				( objectStatus "PAGE1_I19" )
+				( attribute "CDS_LOCATION" "J2"
+					( Origin gPackager )
+				)
+				( attribute "CDS_SEC" "1"
+					( Origin gPackager )
+				)
+				( attribute "LOCATION" "J2"
+					( Origin gPackager )
+				)
+				( attribute "SEC" "1"
+					( Origin gPackager )
+				)
+				( objectStatus "J2" )
 				( pin "\1\"
+					( attribute "PN" "1"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.1" )
 				)
 				( pin "\2\"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.2" )
 				)
 				( pin "\3\"
+					( attribute "PN" "3"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.3" )
 				)
 				( pin "\4\"
+					( attribute "PN" "4"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.4" )
 				)
 				( pin "\5\"
+					( attribute "PN" "5"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.5" )
 				)
 				( pin "\6\"
+					( attribute "PN" "6"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.6" )
 				)
 				( pin "\7\"
+					( attribute "PN" "7"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.7" )
 				)
 				( pin "\8\"
+					( attribute "PN" "8"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.8" )
 				)
 				( pin "\9\"
+					( attribute "PN" "9"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.9" )
 				)
 				( pin "\10\"
+					( attribute "PN" "10"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.10" )
 				)
 				( pin "\11\"
+					( attribute "PN" "11"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.11" )
 				)
 				( pin "\12\"
+					( attribute "PN" "12"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.12" )
 				)
 				( pin "\13\"
+					( attribute "PN" "13"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.13" )
 				)
 				( pin "\14\"
+					( attribute "PN" "14"
+						( Origin gPackager )
+					)
+					( objectStatus "J2.14" )
 				)
 			)
 		)

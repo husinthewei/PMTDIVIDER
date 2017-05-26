@@ -1,0 +1,99 @@
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I1@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1)
+NET_NAME = -HV
+   PNN = -HV_1
+NET_NAME = ACC
+   PNN = ACC_1
+NET_NAME = GND
+   PNN = GND_1
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I2@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1)
+NET_NAME = -HV
+   PNN = -HV_2
+NET_NAME = ACC
+   PNN = ACC_2
+NET_NAME = GND
+   PNN = GND_2
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I3@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1)
+NET_NAME = -HV
+   PNN = -HV_3
+NET_NAME = ACC
+   PNN = ACC_3
+NET_NAME = GND
+   PNN = GND_3
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I4@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1)
+NET_NAME = -HV
+   PNN = -HV_4
+NET_NAME = ACC
+   PNN = ACC_4
+NET_NAME = GND
+   PNN = GND_4
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I5@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1)
+NET_NAME = -HV
+   PNN = -HV_5
+NET_NAME = ACC
+   PNN = ACC_5
+NET_NAME = GND
+   PNN = GND_5
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I6@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1)
+NET_NAME = -HV
+   PNN = -HV_6
+NET_NAME = ACC
+   PNN = ACC_6
+NET_NAME = GND
+   PNN = GND_6
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I7@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1)
+NET_NAME = -HV
+   PNN = -HV_7
+NET_NAME = ACC
+   PNN = ACC_7
+NET_NAME = GND
+   PNN = GND_7
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I8@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1)
+NET_NAME = -HV
+   PNN = -HV_8
+NET_NAME = ACC
+   PNN = ACC_8
+NET_NAME = GND
+   PNN = GND_8
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I9@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1)
+NET_NAME = -HV
+   PNN = -HV_9
+NET_NAME = ACC
+   PNN = ACC_9
+NET_NAME = GND
+   PNN = GND_9

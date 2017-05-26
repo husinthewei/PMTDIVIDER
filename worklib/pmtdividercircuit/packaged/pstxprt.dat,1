@@ -1,9 +1,9 @@
 FILE_TYPE=EXPANDEDPARTLIST;
-{ Packager-XL run on 19-May-2017 AT 14:47:27 }
+{ Packager-XL run on 19-May-2017 AT 15:47:34 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='PMTDIVIDERCIRCUIT';
- POST_TIME='19-May-2017 AT 14:47:27';
+ POST_TIME='19-May-2017 AT 15:47:34';
  SOURCE_TOOL='PACKAGER_XL';
 END_DIRECTIVES;
 
@@ -123,6 +123,26 @@ ps)',
  VER='1',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='CONN14',
+ PRIM_FILE='./libraries/parts_lib/conn14/chips/chips.prt';
+
+PART_NAME
+ J2 'CONN14_HDR14':;
+
+SECTION_NUMBER 1
+ '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I19@PARTS_LIB.CONN14(CHIPS)':
+ C_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19@parts_lib.conn14(chi~
+ps)',
+ P_PATH='@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19@parts_lib.conn14(chi~
+ps)',
+ PATH='I19',
+ DRAWING='@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-200,5350)',
+ ROT='1',
+ VER='1',
+ PACK_TYPE='HDR14',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='CONN14_HDR14',
  PRIM_FILE='./libraries/parts_lib/conn14/chips/chips.prt';
 
 PART_NAME

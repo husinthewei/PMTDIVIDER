@@ -1,7 +1,23 @@
 FILE_TYPE=PINLIST;
-{ Packager-XL run on 19-May-2017 AT 14:47:27 }
-TIME=' COMPILATION ON 19-May-2017 AT 14:47:27';
+{ Packager-XL run on 19-May-2017 AT 15:47:34 }
+TIME=' COMPILATION ON 19-May-2017 AT 15:47:34';
 primitive 'CONN14';      body 'CONN14';
+    '1':'(1)';
+    '2':'(2)';
+    '3':'(3)';
+    '4':'(4)';
+    '5':'(5)';
+    '6':'(6)';
+    '7':'(7)';
+    '8':'(8)';
+    '9':'(9)';
+    '10':'(10)';
+    '11':'(11)';
+    '12':'(12)';
+    '13':'(13)';
+    '14':'(14)';
+end_primitive;
+primitive 'CONN14_HDR14';body 'CONN14';
     '1':'(1)';
     '2':'(2)';
     '3':'(3)';

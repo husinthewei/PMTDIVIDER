@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : divider.brd                                   )
+(    Drawing          : dividers_v1.brd                               )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Fri May 19 15:47:36 2017                      )
+(    Date/Time        : Fri May 26 11:54:26 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -16,21 +16,21 @@ RIPUP_DELETE_FIRST_SEGMENT FALSE;
 RIPUP_RETAIN_BONDWIRE FALSE;
 RIPUP_SYMBOLS ALWAYS;
 Missing symbol has error FALSE;
-SCHEMATIC_DIRECTORY 'C:\Users\HEP\Documents\GitHub\PMTDivider\worklib\pmtdividercircuit\packaged';
+SCHEMATIC_DIRECTORY 'C:\Users\HEP\Documents\GitHub\PMTDivider\worklib\pmtdividerboard\packaged';
 BOARD_DIRECTORY '';
-OLD_BOARD_NAME 'C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/physical/divider.brd';
-NEW_BOARD_NAME 'C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/physical/divider.brd';
+OLD_BOARD_NAME 'dividers_v1.brd';
+NEW_BOARD_NAME 'dividers_v1.brd';
 
-CmdLine: netrev -proj C:\Users\HEP\Documents\GitHub\PMTDivider\pmtdivider.cpm -y 1 -O C:\Users\HEP\Documents\GitHub\PMTDivider\worklib\pmtdividercircuit\physical\divider.brd C:\Users\HEP\Documents\GitHub\PMTDivider\worklib\pmtdividercircuit\physical\divider.brd -$
+CmdLine: netrev -proj C:\Users\HEP\Documents\GitHub\PMTDivider\pmtdivider.cpm -y 1 -n -O C:\Users\HEP\Documents\GitHub\PMTDivider\worklib\pmtdividercircuit\physical\dividers_v1.brd C:\Users\HEP\Documents\GitHub\PMTDivider\worklib\pmtdividercircuit\physical\dividers_v1.brd -$
 
 ------ Preparing to read pst files ------
 
-Starting to read C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstchip.dat 
-   Finished reading C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstchip.dat (00:00:00.28)
-Starting to read C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstxprt.dat 
-   Finished reading C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstxprt.dat (00:00:00.00)
-Starting to read C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstxnet.dat 
-   Finished reading C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstxnet.dat (00:00:00.00)
+Starting to read C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividerboard/packaged/pstchip.dat 
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividerboard/packaged/pstchip.dat (00:00:00.25)
+Starting to read C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividerboard/packaged/pstxprt.dat 
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividerboard/packaged/pstxprt.dat (00:00:00.02)
+Starting to read C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividerboard/packaged/pstxnet.dat 
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividerboard/packaged/pstxnet.dat (00:00:00.01)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -38,13 +38,12 @@ Starting to read C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercirc
 
 
 ===========================================================
-Start Constraint Diff3 Import
-	Constraint File:    C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividercircuit/packaged/pstcmdb.dat
-	Allegro Baseline:   C:/Users/HEP/AppData/Local/Temp/#Taaaaad06824.tmp
-	Start time: Fri May 19 15:47:36 2017
+Start Constraint Override Import
+	Constraint File:    C:/Users/HEP/Documents/GitHub/PMTDivider/worklib/pmtdividerboard/packaged/pstcmdb.dat
+	Start time: Fri May 26 11:54:26 2017
 ===========================================================
 ===========================================================
-Finished Constraint Update	Time: Fri May 19 15:47:37 2017
+Finished Constraint Update	Time: Fri May 26 11:54:26 2017
 ===========================================================
 
 ------ Library Paths ------
@@ -61,9 +60,9 @@ PADPATH =  C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/
 ------ Summary Statistics ------
 
 
-netrev run on May 19 15:47:36 2017
-   DESIGN NAME : 'PMTDIVIDERCIRCUIT'
-   PACKAGING ON 19-May-2017 AT 15:47:34
+netrev run on May 26 11:54:26 2017
+   DESIGN NAME : 'PMTDIVIDERBOARD'
+   PACKAGING ON 26-May-2017 AT 11:54:20
 
    COMPILE 'logic'
    CHECK_PIN_NAMES OFF
@@ -89,6 +88,6 @@ netrev run on May 19 15:47:36 2017
  No oversight detected
  No warning detected
 
-cpu time      0:02:45
+cpu time      0:02:32
 elapsed time  0:00:01
 

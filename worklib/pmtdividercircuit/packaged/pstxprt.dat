@@ -1,14 +1,15 @@
 FILE_TYPE=EXPANDEDPARTLIST;
-{ Packager-XL run on 19-May-2017 AT 15:47:34 }
+{ Packager-XL run on 26-May-2017 AT 11:42:59 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='PMTDIVIDERCIRCUIT';
- POST_TIME='19-May-2017 AT 15:47:34';
+ POST_TIME='26-May-2017 AT 11:42:59';
  SOURCE_TOOL='PACKAGER_XL';
 END_DIRECTIVES;
 
 PART_NAME
- C1 'CSMD1210-0.022UF,20%,1210,2KV':;
+ C1 'CSMD1210-0.022UF,20%,1210,2KV':
+ REUSE_ID='5';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I15@PARTS_LIB.CSMD1210(CHIPS)':
@@ -38,10 +39,12 @@ hips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='CSMD1210-0.022UF,20%,1210,2KV',
  VOLTAGE='2KV',
- PRIM_FILE='./libraries/parts_lib/csmd1210/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/csmd1210/chips/chips.prt',
+ REUSE_ID='5';
 
 PART_NAME
- C2 'CSMD1210-0.022UF,20%,1210,2KV':;
+ C2 'CSMD1210-0.022UF,20%,1210,2KV':
+ REUSE_ID='3';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I17@PARTS_LIB.CSMD1210(CHIPS)':
@@ -71,10 +74,12 @@ hips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='CSMD1210-0.022UF,20%,1210,2KV',
  VOLTAGE='2KV',
- PRIM_FILE='./libraries/parts_lib/csmd1210/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/csmd1210/chips/chips.prt',
+ REUSE_ID='3';
 
 PART_NAME
- C3 'CSMD1210-0.022UF,20%,1210,2KV':;
+ C3 'CSMD1210-0.022UF,20%,1210,2KV':
+ REUSE_ID='4';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I16@PARTS_LIB.CSMD1210(CHIPS)':
@@ -104,10 +109,12 @@ hips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='CSMD1210-0.022UF,20%,1210,2KV',
  VOLTAGE='2KV',
- PRIM_FILE='./libraries/parts_lib/csmd1210/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/csmd1210/chips/chips.prt',
+ REUSE_ID='4';
 
 PART_NAME
- J1 'CONN14':;
+ J1 'CONN14':
+ REUSE_ID='2';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I18@PARTS_LIB.CONN14(CHIPS)':
@@ -123,10 +130,12 @@ ps)',
  VER='1',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='CONN14',
- PRIM_FILE='./libraries/parts_lib/conn14/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/conn14/chips/chips.prt',
+ REUSE_ID='2';
 
 PART_NAME
- J2 'CONN14_HDR14':;
+ J2 'CONN14_HDR14':
+ REUSE_ID='1';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I19@PARTS_LIB.CONN14(CHIPS)':
@@ -143,10 +152,12 @@ ps)',
  PACK_TYPE='HDR14',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='CONN14_HDR14',
- PRIM_FILE='./libraries/parts_lib/conn14/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/conn14/chips/chips.prt',
+ REUSE_ID='1';
 
 PART_NAME
- R1 'RSMD1206-390K,5%,1206':;
+ R1 'RSMD1206-390K,5%,1206':
+ REUSE_ID='18';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I2@PARTS_LIB.RSMD1206(CHIPS)':
@@ -176,10 +187,12 @@ ips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-390K,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='18';
 
 PART_NAME
- R2 'RSMD1206-1.44M,5%,1206':;
+ R2 'RSMD1206-1.44M,5%,1206':
+ REUSE_ID='17';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I3@PARTS_LIB.RSMD1206(CHIPS)':
@@ -209,10 +222,12 @@ ips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-1.44M,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='17';
 
 PART_NAME
- R3 'RSMD1206-1M,5%,1206':;
+ R3 'RSMD1206-1M,5%,1206':
+ REUSE_ID='8';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I12@PARTS_LIB.RSMD1206(CHIPS)':
@@ -242,10 +257,12 @@ hips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-1M,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='8';
 
 PART_NAME
- R4 'RSMD1206-450K,5%,1206':;
+ R4 'RSMD1206-450K,5%,1206':
+ REUSE_ID='15';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I5@PARTS_LIB.RSMD1206(CHIPS)':
@@ -275,10 +292,12 @@ ips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-450K,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='15';
 
 PART_NAME
- R5 'RSMD1206-450K,5%,1206':;
+ R5 'RSMD1206-450K,5%,1206':
+ REUSE_ID='16';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I4@PARTS_LIB.RSMD1206(CHIPS)':
@@ -308,10 +327,12 @@ ips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-450K,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='16';
 
 PART_NAME
- R6 'RSMD1206-300K,5%,1206':;
+ R6 'RSMD1206-300K,5%,1206':
+ REUSE_ID='14';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I6@PARTS_LIB.RSMD1206(CHIPS)':
@@ -341,10 +362,12 @@ ips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-300K,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='14';
 
 PART_NAME
- R7 'RSMD1206-300K,5%,1206':;
+ R7 'RSMD1206-300K,5%,1206':
+ REUSE_ID='13';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I7@PARTS_LIB.RSMD1206(CHIPS)':
@@ -374,10 +397,12 @@ ips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-300K,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='13';
 
 PART_NAME
- R8 'RSMD1206-300K,5%,1206':;
+ R8 'RSMD1206-300K,5%,1206':
+ REUSE_ID='12';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I8@PARTS_LIB.RSMD1206(CHIPS)':
@@ -407,10 +432,12 @@ ips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-300K,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='12';
 
 PART_NAME
- R9 'RSMD1206-51,5%,1206':;
+ R9 'RSMD1206-51,5%,1206':
+ REUSE_ID='19';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I1@PARTS_LIB.RSMD1206(CHIPS)':
@@ -440,10 +467,12 @@ ips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-51,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='19';
 
 PART_NAME
- R10 'RSMD1206-300K,5%,1206':;
+ R10 'RSMD1206-300K,5%,1206':
+ REUSE_ID='11';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I9@PARTS_LIB.RSMD1206(CHIPS)':
@@ -473,10 +502,12 @@ ips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-300K,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='11';
 
 PART_NAME
- R11 'RSMD1206-51,5%,1206':;
+ R11 'RSMD1206-51,5%,1206':
+ REUSE_ID='7';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I13@PARTS_LIB.RSMD1206(CHIPS)':
@@ -506,10 +537,12 @@ hips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-51,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='7';
 
 PART_NAME
- R12 'RSMD1206-300K,5%,1206':;
+ R12 'RSMD1206-300K,5%,1206':
+ REUSE_ID='10';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I10@PARTS_LIB.RSMD1206(CHIPS)':
@@ -539,10 +572,12 @@ hips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-300K,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='10';
 
 PART_NAME
- R13 'RSMD1206-51,5%,1206':;
+ R13 'RSMD1206-51,5%,1206':
+ REUSE_ID='6';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I14@PARTS_LIB.RSMD1206(CHIPS)':
@@ -572,10 +607,12 @@ hips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-51,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='6';
 
 PART_NAME
- R14 'RSMD1206-300K,5%,1206':;
+ R14 'RSMD1206-300K,5%,1206':
+ REUSE_ID='9';
 
 SECTION_NUMBER 1
  '@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I11@PARTS_LIB.RSMD1206(CHIPS)':
@@ -605,6 +642,7 @@ hips)',
  CDS_LIB='parts_lib',
  CDS_PART_NAME='RSMD1206-300K,5%,1206',
  VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt';
+ PRIM_FILE='./libraries/parts_lib/rsmd1206/chips/chips.prt',
+ REUSE_ID='9';
 
 END.

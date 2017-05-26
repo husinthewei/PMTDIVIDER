@@ -1,0 +1,27 @@
+#CELL
+  pmtdivider_lib pmtdividercircuit *
+  page1_i1
+#CELL
+  pmtdivider_lib pmtdividercircuit *
+  page1_i2
+#CELL
+  pmtdivider_lib pmtdividercircuit *
+  page1_i3
+#CELL
+  pmtdivider_lib pmtdividercircuit *
+  page1_i4
+#CELL
+  pmtdivider_lib pmtdividercircuit *
+  page1_i5
+#CELL
+  pmtdivider_lib pmtdividercircuit *
+  page1_i6
+#CELL
+  pmtdivider_lib pmtdividercircuit *
+  page1_i7
+#CELL
+  pmtdivider_lib pmtdividercircuit *
+  page1_i8
+#CELL
+  pmtdivider_lib pmtdividercircuit *
+  page1_i9

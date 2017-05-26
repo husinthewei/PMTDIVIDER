@@ -1,373 +1,43 @@
-\t (00:17:59) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:17:59)     Journal start - Fri May 19 14:37:36 2017
-\t (00:17:59)         Host=HEP-PC User=HEP Pid=5280 CPUs=2
-\t (00:17:59) 
-\d (00:17:59) Database opened: C:/Users/HEP/Documents/GitHub/PMTDivider/libraries/symbols/HDR14.dra
-\i (00:17:59) generaledit 
-\i (00:17:59) zoom out 1 
-\i (00:17:59) setwindow pcb
-\i (00:17:59) zoom out 4 427
-\i (00:17:59) trapsize 3
-\i (00:18:00) zoom out 1 
-\i (00:18:00) setwindow pcb
-\i (00:18:00) zoom out 320 427
-\i (00:18:00) trapsize 7
-\i (00:18:00) roam start
-\i (00:18:00) roam y -80
-\i (00:18:01) roam y -16
-\i (00:18:01) roam y 64
-\i (00:18:01) roam y 144
-\i (00:18:01) roam y 64
-\i (00:18:01) roam y 32
-\i (00:18:01) roam y 32
-\i (00:18:01) roam y 32
-\i (00:18:01) roam y 16
-\i (00:18:01) roam y 16
-\i (00:18:01) roam y 16
-\i (00:18:02) roam y -16
-\i (00:18:02) roam y -16
-\i (00:18:02) roam y -16
-\i (00:18:03) roam end
-\i (00:18:10) prepopup 104 209
-\i (00:18:11) pick grid 47 241
-\t (00:18:11) last pick:  50  250
-\i (00:18:12) roam start
-\i (00:18:12) roam y -16
-\i (00:18:12) roam y -16
-\i (00:18:12) roam end
-\i (00:18:13) prepopup -3 167
-\i (00:18:13) pick grid -69 244
-\t (00:18:13) last pick:  -75  250
-\i (00:18:15) zoom in 1 
-\i (00:18:15) setwindow pcb
-\i (00:18:15) zoom in -60 197
-\i (00:18:15) trapsize 3
-\i (00:18:15) zoom in 1 
-\i (00:18:15) setwindow pcb
-\i (00:18:15) zoom in -207 198
-\i (00:18:15) trapsize 2
-\i (00:18:15) zoom in 1 
-\i (00:18:15) setwindow pcb
-\i (00:18:15) zoom in -207 198
-\i (00:18:15) trapsize 1
-\i (00:18:15) zoom out 1 
-\i (00:18:15) setwindow pcb
-\i (00:18:15) zoom out -182 196
-\i (00:18:15) trapsize 2
-\i (00:18:17) prepopup -77 205
-\i (00:18:20) pick grid -202 186
-\t (00:18:20) last pick:  -200  175
-\i (00:18:20) pick grid -49 197
-\t (00:18:20) last pick:  -50  200
-\i (00:18:20) prepopup -49 197
-\i (00:18:32) pick grid 59 176
-\t (00:18:32) last pick:  50  175
-\i (00:18:32) pick grid 50 200
-\t (00:18:32) last pick:  50  200
-\i (00:18:33) zoom out 1 
-\i (00:18:33) setwindow pcb
-\i (00:18:33) zoom out 50 200
-\i (00:18:33) trapsize 3
-\i (00:18:33) prepopup 358 200
-\i (00:18:34) pick grid 96 212
-\t (00:18:34) last pick:  100  200
-\i (00:18:36) zoom out 1 
-\i (00:18:36) setwindow pcb
-\i (00:18:36) zoom out -71 306
-\i (00:18:36) trapsize 7
-\i (00:18:36) zoom out 1 
-\i (00:18:36) setwindow pcb
-\i (00:18:36) zoom out 216 306
-\i (00:18:36) trapsize 14
-\i (00:18:37) roam start
-\i (00:18:37) roam end
-\i (00:18:37) prepopup 760 626
-\t (00:18:38) last pick:  427  664
-\w (00:18:38) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
-\i (00:18:38) prepopup 221 547
-\i (00:18:39) pick grid 9 618
-\t (00:18:39) last pick:  0  625
-\i (00:18:39) zoom in 1 
-\i (00:18:39) setwindow pcb
-\i (00:18:39) zoom in 9 620
-\i (00:18:39) trapsize 7
-\i (00:18:39) zoom in 1 
-\i (00:18:39) setwindow pcb
-\i (00:18:39) zoom in -175 621
-\i (00:18:39) trapsize 3
-\i (00:18:40) roam start
-\i (00:18:40) roam y 64
-\i (00:18:40) roam y 16
-\i (00:18:40) roam y 32
-\i (00:18:41) roam y 48
-\i (00:18:41) roam y 32
-\i (00:18:41) roam y 16
-\i (00:18:41) roam y 32
-\i (00:18:41) roam y 32
-\i (00:18:41) roam y 32
-\i (00:18:41) roam y 16
-\i (00:18:41) roam y 32
-\i (00:18:41) roam y 48
-\i (00:18:41) roam y 16
-\i (00:18:41) roam y 16
-\i (00:18:41) roam y 48
-\i (00:18:41) roam y 48
-\i (00:18:41) roam y 16
-\i (00:18:41) roam y 32
-\i (00:18:41) roam y 16
-\i (00:18:41) roam y 16
-\i (00:18:41) roam y 16
-\i (00:18:41) roam y 16
-\i (00:18:41) roam y 16
-\i (00:18:42) roam end
-\i (00:18:42) pick grid 36 122
-\t (00:18:42) last pick:  25  125
-\i (00:18:42) prepopup 36 122
-\i (00:20:33) pick grid -331 -58
-\t (00:20:33) last pick:  -325  -50
-\i (00:20:33) prepopup -189 -12
-\i (00:20:34) pick grid -220 1
-\t (00:20:34) last pick:  -225  0
-\t (00:20:36) Pick to complete the window.
-\i (00:20:39) pick -140 69
-\t (00:20:39) last pick:  -140  69
-\i (00:20:39) setwindow pcb
-\i (00:20:39) zoom points
-\i (00:20:39) pick -359 -306
-\i (00:20:39) pick 1146 348
-\i (00:20:39) trapsize 4
-\i (00:20:39) generaledit 
-\t (00:20:40) Pick to complete the window.
-\i (00:20:40) zoom points
-\i (00:20:40) pick -359 -633
-\i (00:20:40) pick 2651 675
-\i (00:20:40) trapsize 8
-\i (00:20:40) generaledit 
-\t (00:20:42) Pick to complete the window.
-\i (00:20:42) zoom points
-\i (00:20:42) pick 223 63
-\i (00:20:42) pick -359 316
-\i (00:20:42) trapsize 2
-\i (00:20:42) generaledit 
-\t (00:20:43) Pick to complete the window.
-\i (00:20:46) prepopup -180 186
-\i (00:20:46) pick -179 187
-\t (00:20:46) last pick:  -179  187
-\i (00:20:46) setwindow pcb
-\i (00:20:46) generaledit 
-\i (00:20:47) prepopup -179 187
-\i (00:20:48) pick grid -188 190
-\t (00:20:48) last pick:  -200  200
-\i (00:20:50) roam x 96 
-\i (00:20:50) roam x 96
-\i (00:20:51) zoom out 1 
-\i (00:20:51) setwindow pcb
-\i (00:20:51) zoom out -77 206
-\i (00:20:51) trapsize 3
-\i (00:20:51) zoom out 1 
-\i (00:20:51) setwindow pcb
-\i (00:20:51) zoom out 145 207
-\i (00:20:51) trapsize 6
-\i (00:20:51) ipick 0 
-\t (00:20:51) last pick:  -200  200
-\i (00:20:51) ipick_to_gridunit -1 
-\t (00:20:51) last pick:  -225  200
-\i (00:20:51) trapsize 6
-\i (00:20:52) roam x -96 
-\i (00:20:52) roam x -96 
-\i (00:20:53) roam start
-\i (00:20:53) roam y 16
-\i (00:20:53) roam y 48
-\i (00:20:53) roam end
-\i (00:20:53) roam start
-\i (00:20:53) roam y 16
-\i (00:20:54) roam y -32
-\i (00:20:54) roam y -16
-\i (00:20:54) roam y 16
-\i (00:20:54) roam y 16
-\i (00:20:54) roam end
-\i (00:20:54) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam x -96 
-\i (00:20:55) roam y -96 
-\i (00:20:55) roam y -96
-\i (00:20:56) roam y -96 
-\i (00:20:56) roam y -96
-\i (00:20:56) roam y -96 
-\i (00:20:56) roam y -96
-\i (00:20:56) roam y -96 
-\i (00:20:56) roam y -96
-\i (00:20:56) roam x 96 
-\i (00:20:56) roam y 96 
-\i (00:20:56) roam y 96
-\i (00:20:57) roam y 96 
-\i (00:20:57) roam y 96
-\i (00:20:57) roam y 96 
-\i (00:20:57) roam y 96
-\i (00:20:57) roam y 96 
-\i (00:20:57) roam y 96
-\i (00:20:57) roam y 96 
-\i (00:20:57) roam y 96
-\i (00:20:57) roam y 96 
-\i (00:20:57) roam y 96
-\i (00:20:57) roam y 96 
-\i (00:20:57) roam y 96
-\i (00:20:57) roam y 96 
-\i (00:20:57) roam y 96
-\i (00:20:57) roam y 96 
-\i (00:20:57) roam y 96
-\i (00:20:57) roam y 96 
-\i (00:20:57) roam y 16
-\i (00:20:57) roam y 96 
-\i (00:20:57) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam x -96 
-\i (00:20:58) roam y -96 
-\i (00:20:58) roam y -96
-\i (00:20:59) roam y -96 
-\i (00:20:59) roam y -96
-\i (00:20:59) roam y -96 
-\i (00:20:59) roam y -96
-\i (00:20:59) roam y -96 
-\i (00:20:59) roam y -96
-\i (00:21:00) roam y -96 
-\i (00:21:00) roam y -96
-\i (00:21:00) roam y -96 
-\i (00:21:00) roam y -96
-\i (00:21:01) roam x -96 
-\i (00:21:01) zoom in 1 
-\i (00:21:01) setwindow pcb
-\i (00:21:01) zoom in 19 209
-\i (00:21:01) trapsize 3
-\i (00:21:01) roam x -96 
-\i (00:21:01) roam x -96 
-\i (00:21:01) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:02) roam x -96 
-\i (00:21:03) roam x -96 
-\i (00:21:03) zoom in 1 
-\i (00:21:03) setwindow pcb
-\i (00:21:03) zoom in -162 213
-\i (00:21:03) trapsize 2
-\i (00:21:03) roam x -96 
-\i (00:21:03) roam x -96
-\i (00:21:03) zoom out 1 
-\i (00:21:03) setwindow pcb
-\i (00:21:03) zoom out -192 213
-\i (00:21:03) trapsize 3
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) zoom in 1 
-\i (00:21:04) setwindow pcb
-\i (00:21:04) zoom in -162 214
-\i (00:21:04) trapsize 2
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -16
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:04) roam x -96 
-\i (00:21:05) roam x 96 
-\i (00:21:05) roam x 96
-\i (00:21:05) roam x -96 
-\i (00:21:05) roam x -96
-\i (00:21:05) roam x -96 
-\i (00:21:05) roam x -96 
-\i (00:21:05) roam x -96 
-\i (00:21:06) roam x -96 
-\i (00:21:06) roam x -96 
-\i (00:21:06) roam x -96 
-\i (00:21:06) roam x -96 
-\i (00:21:06) roam x -96 
-\i (00:21:06) roam x -96 
-\i (00:21:06) roam x -96 
-\i (00:21:06) roam x 96 
-\i (00:21:06) roam x 96
-\i (00:21:06) roam x 96 
-\i (00:21:06) roam x 96
-\i (00:21:06) roam x 96 
-\i (00:21:06) roam x 96
-\i (00:21:08) prepopup -56 195
-\i (00:21:10) pick grid -212 161
-\t (00:21:10) last pick:  -200  150
-\i (00:21:11) pick grid -55 178
-\t (00:21:11) last pick:  -50  175
-\i (00:21:11) prepopup -55 178
-\i (00:21:15) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
-\i (00:21:15) prmed 
-\i (00:21:27) setwindow form.prmedit
-\i (00:21:27) FORM prmedit design  
-\i (00:21:32) FORM prmedit text  
-\i (00:21:32) FORM prmedit shapes  
-\i (00:21:33) FORM prmedit route  
-\i (00:21:35) FORM prmedit cancel  
-\i (00:21:35) setwindow pcb
-\i (00:21:35) generaledit 
-\i (00:21:35) zoom out 1 
-\i (00:21:35) setwindow pcb
-\i (00:21:35) zoom out 21 291
-\i (00:21:35) trapsize 3
-\i (00:21:36) show measure 
-\i (00:21:37) pick grid -60 298
-\t (00:21:37) last pick:  -50  300
-\i (00:21:38) pick grid 51 302
-\t (00:21:38) last pick:  50  300
-\i (00:21:42) pick grid -54 294
-\t (00:21:42) last pick:  -50  300
-\i (00:21:43) pick grid -48 200
-\t (00:21:43) last pick:  -50  200
-\i (00:21:54) setwindow text
-\i (00:21:54) close 
-\i (00:21:55) setwindow pcb
-\i (00:21:55) exit 
-\t (00:21:55)     Journal end - Fri May 19 14:41:32 2017
+\t (00:00:38) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:38)     Journal start - Wed May 24 17:20:03 2017
+\t (00:00:38)         Host=HEP-PC User=HEP Pid=5808 CPUs=2
+\t (00:00:38) 
+\d (00:00:38) Database opened: C:/Users/HEP/Documents/GitHub/PMTDivider/libraries/symbols/HDR14.dra
+\i (00:00:38) generaledit 
+\i (00:00:39) roam y 96 
+\i (00:00:39) roam y 96
+\i (00:00:39) roam y 96 
+\i (00:00:39) roam y 96
+\i (00:00:39) roam y 96 
+\i (00:00:39) roam y 96
+\i (00:00:40) roam y 96 
+\i (00:00:40) roam y 96
+\i (00:00:40) pick grid 60 287
+\t (00:00:40) last pick:  50  275
+\i (00:00:41) pick grid 60 299
+\t (00:00:41) last pick:  50  300
+\i (00:00:41) prepopup 60 300
+\i (00:00:45) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (00:00:45) define grid 
+\t (00:00:45) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:46) generaledit 
+\i (00:00:47) setwindow form.grid
+\i (00:00:47) FORM grid done  
+\i (00:00:48) setwindow pcb
+\i (00:00:48) prepopup 56 301
+\i (00:00:50) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:00:50) prmed 
+\i (00:00:53) setwindow form.prmedit
+\i (00:00:53) FORM prmedit cancel  
+\i (00:00:53) setwindow pcb
+\i (00:00:53) generaledit 
+\i (00:00:53) prepopup 53 305
+\i (00:00:55) pop dyn_option_select '@:@Show element' 
+\i (00:00:55) show element 
+\i (00:00:55) generaledit 
+\i (00:01:49) pick grid 90 409
+\t (00:01:49) last pick:  100  400
+\i (00:01:51) exit 
+\i (00:01:51) setwindow text
+\i (00:01:51) close 
+\t (00:01:51)     Journal end - Wed May 24 17:21:16 2017

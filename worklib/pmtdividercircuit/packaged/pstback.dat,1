@@ -1,4 +1,4 @@
-{ Packager-XL run on 19-May-2017 AT 14:47:27 }
+{ Packager-XL run on 19-May-2017 AT 15:47:34 }
 FILE_TYPE = BACK_ANNOTATION;
 DRAWING = "@pmtdivider_lib.pmtdividercircuit(sch_1):page1";
 BODY = "RSMD1206","I1": LOCATION = "R9" #&CDS_LOCATION = "R9" &SEC = "1" #&CDS_SEC = "1";
@@ -53,6 +53,21 @@ BODY = "CSMD1210","I17": LOCATION = "C2" #&CDS_LOCATION = "C2" &SEC = "1" #&CDS_
 "A<0>":   PN = "1"  !CDS_PN = "1";
 "B<0>":   PN = "2"  !CDS_PN = "2";
 BODY = "CONN14","I18": LOCATION = "J1" #&CDS_LOCATION = "J1" &SEC = "1" #&CDS_SEC = "1";
+"1":   PN = "1"  !CDS_PN = "1";
+"2":   PN = "2"  !CDS_PN = "2";
+"3":   PN = "3"  !CDS_PN = "3";
+"4":   PN = "4"  !CDS_PN = "4";
+"5":   PN = "5"  !CDS_PN = "5";
+"6":   PN = "6"  !CDS_PN = "6";
+"7":   PN = "7"  !CDS_PN = "7";
+"8":   PN = "8"  !CDS_PN = "8";
+"9":   PN = "9"  !CDS_PN = "9";
+"10":   PN = "10"  !CDS_PN = "10";
+"11":   PN = "11"  !CDS_PN = "11";
+"12":   PN = "12"  !CDS_PN = "12";
+"13":   PN = "13"  !CDS_PN = "13";
+"14":   PN = "14"  !CDS_PN = "14";
+BODY = "CONN14","I19": LOCATION = "J2" #&CDS_LOCATION = "J2" &SEC = "1" #&CDS_SEC = "1";
 "1":   PN = "1"  !CDS_PN = "1";
 "2":   PN = "2"  !CDS_PN = "2";
 "3":   PN = "3"  !CDS_PN = "3";
