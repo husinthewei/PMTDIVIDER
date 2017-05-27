@@ -2,9 +2,9 @@
 (                                                                     )
 (    Dangling Line, Via and Antenna Report                            )
 (                                                                     )
-(    Drawing          : dividers_v1.brd                               )
+(    Drawing          : dividers_v2.brd                               )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Fri May 26 14:42:43 2017                      )
+(    Date/Time        : Sat May 27 00:08:20 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -27,141 +27,141 @@ Report methodology:
 << Dangling Vias >>
   Net                  Padstack               Location            Layers
   ---------------------------------------------------------------------------
-  UNNAMED_1_CONN14_I18_13_9 VIA                  (6200.00 5820.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_8 VIA                  (3600.00 5820.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_7 VIA                  (1000.00 5820.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_6 VIA                  (6200.00 3220.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_5 VIA                  (3600.00 3220.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_4 VIA                  (1000.00 3220.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_3 VIA                  (6200.00 620.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_2 VIA                  (3600.00 620.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_1 VIA                  (1000.00 620.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_9 VIA                  (6275.00 5945.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_8 VIA                  (3675.00 5945.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_7 VIA                  (1075.00 5945.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_6 VIA                  (6275.00 3345.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_5 VIA                  (3675.00 3345.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_4 VIA                  (1075.00 3345.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_3 VIA                  (6275.00 745.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_2 VIA                  (3675.00 745.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_1 VIA                  (1075.00 745.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_9 VIA                  (6200.00 6070.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_8 VIA                  (3600.00 6070.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_7 VIA                  (1000.00 6070.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_6 VIA                  (6200.00 3470.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_5 VIA                  (3600.00 3470.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_4 VIA                  (1000.00 3470.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_3 VIA                  (6200.00 870.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_2 VIA                  (3600.00 870.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_1 VIA                  (1000.00 870.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_9 VIA                  (6282.00 6227.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_8 VIA                  (3682.00 6227.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_7 VIA                  (1082.00 6227.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_6 VIA                  (6282.00 3627.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_5 VIA                  (3682.00 3627.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_4 VIA                  (1082.00 3627.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_3 VIA                  (6282.00 1027.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_2 VIA                  (3682.00 1027.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_1 VIA                  (1082.00 1027.00) TOP/BOTTOM 
-  GND_9                VIA                  (7100.00 6770.00) TOP/BOTTOM 
-  GND_9                VIA                  (6282.00 5652.00) TOP/BOTTOM 
-  GND_9                VIA                  (7425.00 5920.00) TOP/BOTTOM 
-  GND_9                VIA                  (7425.00 5720.00) TOP/BOTTOM 
-  GND_9                VIA                  (7425.00 6145.00) TOP/BOTTOM 
-  GND_9                VIA                  (7425.00 6345.00) TOP/BOTTOM 
-  GND_9                VIA                  (7425.00 6545.00) TOP/BOTTOM 
-  GND_9                VIA                  (7100.00 6645.00) TOP/BOTTOM 
-  GND_9                VIA                  (7100.00 6895.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_9 VIA_40               (6200.00 5820.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_8 VIA_40               (3600.00 5820.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_7 VIA_40               (1000.00 5820.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_6 VIA_40               (6200.00 3220.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_5 VIA_40               (3600.00 3220.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_4 VIA_40               (1000.00 3220.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_3 VIA_40               (6200.00 620.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_2 VIA_40               (3600.00 620.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_1 VIA_40               (1000.00 620.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_9 VIA_40               (6275.00 5945.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_8 VIA_40               (3675.00 5945.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_7 VIA_40               (1075.00 5945.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_6 VIA_40               (6275.00 3345.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_5 VIA_40               (3675.00 3345.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_4 VIA_40               (1075.00 3345.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_3 VIA_40               (6275.00 745.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_2 VIA_40               (3675.00 745.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_1 VIA_40               (1075.00 745.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_9 VIA_40               (6200.00 6070.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_8 VIA_40               (3600.00 6070.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_7 VIA_40               (1000.00 6070.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_6 VIA_40               (6200.00 3470.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_5 VIA_40               (3600.00 3470.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_4 VIA_40               (1000.00 3470.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_3 VIA_40               (6200.00 870.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_2 VIA_40               (3600.00 870.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_1 VIA_40               (1000.00 870.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_9 VIA_40               (6282.00 6227.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_8 VIA_40               (3682.00 6227.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_7 VIA_40               (1082.00 6227.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_6 VIA_40               (6282.00 3627.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_5 VIA_40               (3682.00 3627.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_4 VIA_40               (1082.00 3627.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_3 VIA_40               (6282.00 1027.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_2 VIA_40               (3682.00 1027.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_1 VIA_40               (1082.00 1027.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7100.00 6895.00) TOP/BOTTOM 
+  GND_9                VIA_40               (6282.00 5652.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7425.00 5720.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7425.00 5920.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7425.00 6145.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7100.00 6645.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7425.00 6345.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7425.00 6545.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7100.00 6770.00) TOP/BOTTOM 
   GND_9                VIA110X150           (7275.00 7045.00) TOP/BOTTOM 
-  GND_8                VIA                  (4500.00 6770.00) TOP/BOTTOM 
-  GND_8                VIA                  (3682.00 5652.00) TOP/BOTTOM 
-  GND_8                VIA                  (4825.00 5920.00) TOP/BOTTOM 
-  GND_8                VIA                  (4825.00 5720.00) TOP/BOTTOM 
-  GND_8                VIA                  (4825.00 6145.00) TOP/BOTTOM 
-  GND_8                VIA                  (4825.00 6345.00) TOP/BOTTOM 
-  GND_8                VIA                  (4825.00 6545.00) TOP/BOTTOM 
-  GND_8                VIA                  (4500.00 6645.00) TOP/BOTTOM 
-  GND_8                VIA                  (4500.00 6895.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4500.00 6895.00) TOP/BOTTOM 
+  GND_8                VIA_40               (3682.00 5652.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4825.00 5720.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4825.00 5920.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4825.00 6145.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4500.00 6645.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4825.00 6345.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4825.00 6545.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4500.00 6770.00) TOP/BOTTOM 
   GND_8                VIA110X150           (4675.00 7045.00) TOP/BOTTOM 
-  GND_7                VIA                  (1900.00 6770.00) TOP/BOTTOM 
-  GND_7                VIA                  (1082.00 5652.00) TOP/BOTTOM 
-  GND_7                VIA                  (2225.00 5920.00) TOP/BOTTOM 
-  GND_7                VIA                  (2225.00 5720.00) TOP/BOTTOM 
-  GND_7                VIA                  (2225.00 6145.00) TOP/BOTTOM 
-  GND_7                VIA                  (2225.00 6345.00) TOP/BOTTOM 
-  GND_7                VIA                  (2225.00 6545.00) TOP/BOTTOM 
-  GND_7                VIA                  (1900.00 6645.00) TOP/BOTTOM 
-  GND_7                VIA                  (1900.00 6895.00) TOP/BOTTOM 
+  GND_7                VIA_40               (1900.00 6895.00) TOP/BOTTOM 
+  GND_7                VIA_40               (1082.00 5652.00) TOP/BOTTOM 
+  GND_7                VIA_40               (2225.00 5720.00) TOP/BOTTOM 
+  GND_7                VIA_40               (2225.00 5920.00) TOP/BOTTOM 
+  GND_7                VIA_40               (2225.00 6145.00) TOP/BOTTOM 
+  GND_7                VIA_40               (1900.00 6645.00) TOP/BOTTOM 
+  GND_7                VIA_40               (2225.00 6345.00) TOP/BOTTOM 
+  GND_7                VIA_40               (2225.00 6545.00) TOP/BOTTOM 
+  GND_7                VIA_40               (1900.00 6770.00) TOP/BOTTOM 
   GND_7                VIA110X150           (2075.00 7045.00) TOP/BOTTOM 
-  GND_6                VIA                  (7100.00 4170.00) TOP/BOTTOM 
-  GND_6                VIA                  (6282.00 3052.00) TOP/BOTTOM 
-  GND_6                VIA                  (7425.00 3320.00) TOP/BOTTOM 
-  GND_6                VIA                  (7425.00 3120.00) TOP/BOTTOM 
-  GND_6                VIA                  (7425.00 3545.00) TOP/BOTTOM 
-  GND_6                VIA                  (7425.00 3745.00) TOP/BOTTOM 
-  GND_6                VIA                  (7425.00 3945.00) TOP/BOTTOM 
-  GND_6                VIA                  (7100.00 4045.00) TOP/BOTTOM 
-  GND_6                VIA                  (7100.00 4295.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7100.00 4295.00) TOP/BOTTOM 
+  GND_6                VIA_40               (6282.00 3052.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7425.00 3120.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7425.00 3320.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7425.00 3545.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7100.00 4045.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7425.00 3745.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7425.00 3945.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7100.00 4170.00) TOP/BOTTOM 
   GND_6                VIA110X150           (7275.00 4445.00) TOP/BOTTOM 
-  GND_5                VIA                  (4500.00 4170.00) TOP/BOTTOM 
-  GND_5                VIA                  (3682.00 3052.00) TOP/BOTTOM 
-  GND_5                VIA                  (4825.00 3320.00) TOP/BOTTOM 
-  GND_5                VIA                  (4825.00 3120.00) TOP/BOTTOM 
-  GND_5                VIA                  (4825.00 3545.00) TOP/BOTTOM 
-  GND_5                VIA                  (4825.00 3745.00) TOP/BOTTOM 
-  GND_5                VIA                  (4825.00 3945.00) TOP/BOTTOM 
-  GND_5                VIA                  (4500.00 4045.00) TOP/BOTTOM 
-  GND_5                VIA                  (4500.00 4295.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4500.00 4295.00) TOP/BOTTOM 
+  GND_5                VIA_40               (3682.00 3052.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4825.00 3120.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4825.00 3320.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4825.00 3545.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4500.00 4045.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4825.00 3745.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4825.00 3945.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4500.00 4170.00) TOP/BOTTOM 
   GND_5                VIA110X150           (4675.00 4445.00) TOP/BOTTOM 
-  GND_4                VIA                  (1900.00 4170.00) TOP/BOTTOM 
-  GND_4                VIA                  (1082.00 3052.00) TOP/BOTTOM 
-  GND_4                VIA                  (2225.00 3320.00) TOP/BOTTOM 
-  GND_4                VIA                  (2225.00 3120.00) TOP/BOTTOM 
-  GND_4                VIA                  (2225.00 3545.00) TOP/BOTTOM 
-  GND_4                VIA                  (2225.00 3745.00) TOP/BOTTOM 
-  GND_4                VIA                  (2225.00 3945.00) TOP/BOTTOM 
-  GND_4                VIA                  (1900.00 4045.00) TOP/BOTTOM 
-  GND_4                VIA                  (1900.00 4295.00) TOP/BOTTOM 
+  GND_4                VIA_40               (1900.00 4295.00) TOP/BOTTOM 
+  GND_4                VIA_40               (1082.00 3052.00) TOP/BOTTOM 
+  GND_4                VIA_40               (2225.00 3120.00) TOP/BOTTOM 
+  GND_4                VIA_40               (2225.00 3320.00) TOP/BOTTOM 
+  GND_4                VIA_40               (2225.00 3545.00) TOP/BOTTOM 
+  GND_4                VIA_40               (1900.00 4045.00) TOP/BOTTOM 
+  GND_4                VIA_40               (2225.00 3745.00) TOP/BOTTOM 
+  GND_4                VIA_40               (2225.00 3945.00) TOP/BOTTOM 
+  GND_4                VIA_40               (1900.00 4170.00) TOP/BOTTOM 
   GND_4                VIA110X150           (2075.00 4445.00) TOP/BOTTOM 
-  GND_3                VIA                  (7100.00 1570.00) TOP/BOTTOM 
-  GND_3                VIA                  (6282.00 452.00) TOP/BOTTOM 
-  GND_3                VIA                  (7425.00 720.00) TOP/BOTTOM 
-  GND_3                VIA                  (7425.00 520.00) TOP/BOTTOM 
-  GND_3                VIA                  (7425.00 945.00) TOP/BOTTOM 
-  GND_3                VIA                  (7425.00 1145.00) TOP/BOTTOM 
-  GND_3                VIA                  (7425.00 1345.00) TOP/BOTTOM 
-  GND_3                VIA                  (7100.00 1445.00) TOP/BOTTOM 
-  GND_3                VIA                  (7100.00 1695.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7100.00 1695.00) TOP/BOTTOM 
+  GND_3                VIA_40               (6282.00 452.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7425.00 520.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7425.00 720.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7425.00 945.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7100.00 1445.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7425.00 1145.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7425.00 1345.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7100.00 1570.00) TOP/BOTTOM 
   GND_3                VIA110X150           (7275.00 1845.00) TOP/BOTTOM 
-  GND_2                VIA                  (4500.00 1570.00) TOP/BOTTOM 
-  GND_2                VIA                  (3682.00 452.00) TOP/BOTTOM 
-  GND_2                VIA                  (4825.00 720.00) TOP/BOTTOM 
-  GND_2                VIA                  (4825.00 520.00) TOP/BOTTOM 
-  GND_2                VIA                  (4825.00 945.00) TOP/BOTTOM 
-  GND_2                VIA                  (4825.00 1145.00) TOP/BOTTOM 
-  GND_2                VIA                  (4825.00 1345.00) TOP/BOTTOM 
-  GND_2                VIA                  (4500.00 1445.00) TOP/BOTTOM 
-  GND_2                VIA                  (4500.00 1695.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4500.00 1695.00) TOP/BOTTOM 
+  GND_2                VIA_40               (3682.00 452.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4825.00 520.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4825.00 720.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4825.00 945.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4500.00 1445.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4825.00 1145.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4825.00 1345.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4500.00 1570.00) TOP/BOTTOM 
   GND_2                VIA110X150           (4675.00 1845.00) TOP/BOTTOM 
-  GND_1                VIA                  (1900.00 1570.00) TOP/BOTTOM 
-  GND_1                VIA                  (1082.00 452.00) TOP/BOTTOM 
-  GND_1                VIA                  (2225.00 720.00) TOP/BOTTOM 
-  GND_1                VIA                  (2225.00 520.00) TOP/BOTTOM 
-  GND_1                VIA                  (2225.00 945.00) TOP/BOTTOM 
-  GND_1                VIA                  (2225.00 1145.00) TOP/BOTTOM 
-  GND_1                VIA                  (2225.00 1345.00) TOP/BOTTOM 
-  GND_1                VIA                  (1900.00 1445.00) TOP/BOTTOM 
-  GND_1                VIA                  (1900.00 1695.00) TOP/BOTTOM 
+  GND_1                VIA_40               (1900.00 1695.00) TOP/BOTTOM 
+  GND_1                VIA_40               (1082.00 452.00) TOP/BOTTOM 
+  GND_1                VIA_40               (2225.00 520.00) TOP/BOTTOM 
+  GND_1                VIA_40               (2225.00 720.00) TOP/BOTTOM 
+  GND_1                VIA_40               (2225.00 945.00) TOP/BOTTOM 
+  GND_1                VIA_40               (1900.00 1445.00) TOP/BOTTOM 
+  GND_1                VIA_40               (2225.00 1145.00) TOP/BOTTOM 
+  GND_1                VIA_40               (2225.00 1345.00) TOP/BOTTOM 
+  GND_1                VIA_40               (1900.00 1570.00) TOP/BOTTOM 
   GND_1                VIA110X150           (2075.00 1845.00) TOP/BOTTOM 
-  ACC_9                VIA                  (7125.00 6445.00) TOP/BOTTOM 
-  ACC_8                VIA                  (4525.00 6445.00) TOP/BOTTOM 
-  ACC_7                VIA                  (1925.00 6445.00) TOP/BOTTOM 
-  ACC_6                VIA                  (7125.00 3845.00) TOP/BOTTOM 
-  ACC_5                VIA                  (4525.00 3845.00) TOP/BOTTOM 
-  ACC_4                VIA                  (1925.00 3845.00) TOP/BOTTOM 
-  ACC_3                VIA                  (7125.00 1245.00) TOP/BOTTOM 
-  ACC_2                VIA                  (4525.00 1245.00) TOP/BOTTOM 
-  ACC_1                VIA                  (1925.00 1245.00) TOP/BOTTOM 
+  ACC_9                VIA_40               (7125.00 6445.00) TOP/BOTTOM 
+  ACC_8                VIA_40               (4525.00 6445.00) TOP/BOTTOM 
+  ACC_7                VIA_40               (1925.00 6445.00) TOP/BOTTOM 
+  ACC_6                VIA_40               (7125.00 3845.00) TOP/BOTTOM 
+  ACC_5                VIA_40               (4525.00 3845.00) TOP/BOTTOM 
+  ACC_4                VIA_40               (1925.00 3845.00) TOP/BOTTOM 
+  ACC_3                VIA_40               (7125.00 1245.00) TOP/BOTTOM 
+  ACC_2                VIA_40               (4525.00 1245.00) TOP/BOTTOM 
+  ACC_1                VIA_40               (1925.00 1245.00) TOP/BOTTOM 
   -HV_9                VIA-1-1              (7150.00 7320.00) TOP/BOTTOM 
   -HV_8                VIA-1-1              (4550.00 7320.00) TOP/BOTTOM 
   -HV_7                VIA-1-1              (1950.00 7320.00) TOP/BOTTOM 
@@ -171,146 +171,182 @@ Report methodology:
   -HV_3                VIA-1-1              (7150.00 2120.00) TOP/BOTTOM 
   -HV_2                VIA-1-1              (4550.00 2120.00) TOP/BOTTOM 
   -HV_1                VIA-1-1              (1950.00 2120.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2250.00 2250.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2250.00 150.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (150.00 2250.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (150.00 150.00)  TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (4850.00 2250.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (4850.00 150.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2750.00 2250.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2750.00 150.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (7450.00 2250.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (7450.00 150.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (5350.00 2250.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (5350.00 150.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2250.00 4850.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2250.00 2750.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (150.00 4850.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (150.00 2750.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (4850.00 4850.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (4850.00 2750.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2750.00 4850.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2750.00 2750.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (7450.00 4850.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (7450.00 2750.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (5350.00 4850.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (5350.00 2750.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2250.00 7450.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2250.00 5350.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (150.00 7450.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (150.00 5350.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (4850.00 7450.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (4850.00 5350.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2750.00 7450.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (2750.00 5350.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (7450.00 7450.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (7450.00 5350.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (5350.00 7450.00) TOP/BOTTOM 
+  Not on a Net         MOUNTHOLE_150_NOPAD  (5350.00 5350.00) TOP/BOTTOM 
 
 
 << Antenna Vias >>
   Net                  Padstack               Location            Layers
   ---------------------------------------------------------------------------
-  UNNAMED_1_CONN14_I18_13_9 VIA                  (6200.00 5820.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_8 VIA                  (3600.00 5820.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_7 VIA                  (1000.00 5820.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_6 VIA                  (6200.00 3220.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_5 VIA                  (3600.00 3220.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_4 VIA                  (1000.00 3220.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_3 VIA                  (6200.00 620.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_2 VIA                  (3600.00 620.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_13_1 VIA                  (1000.00 620.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_9 VIA                  (6275.00 5945.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_8 VIA                  (3675.00 5945.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_7 VIA                  (1075.00 5945.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_6 VIA                  (6275.00 3345.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_5 VIA                  (3675.00 3345.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_4 VIA                  (1075.00 3345.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_3 VIA                  (6275.00 745.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_2 VIA                  (3675.00 745.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_12_1 VIA                  (1075.00 745.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_9 VIA                  (6200.00 6070.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_8 VIA                  (3600.00 6070.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_7 VIA                  (1000.00 6070.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_6 VIA                  (6200.00 3470.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_5 VIA                  (3600.00 3470.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_4 VIA                  (1000.00 3470.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_3 VIA                  (6200.00 870.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_2 VIA                  (3600.00 870.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_11_1 VIA                  (1000.00 870.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_9 VIA                  (6282.00 6227.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_8 VIA                  (3682.00 6227.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_7 VIA                  (1082.00 6227.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_6 VIA                  (6282.00 3627.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_5 VIA                  (3682.00 3627.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_4 VIA                  (1082.00 3627.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_3 VIA                  (6282.00 1027.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_2 VIA                  (3682.00 1027.00) TOP/BOTTOM 
-  UNNAMED_1_CONN14_I18_10_1 VIA                  (1082.00 1027.00) TOP/BOTTOM 
-  GND_9                VIA                  (7100.00 6770.00) TOP/BOTTOM 
-  GND_9                VIA                  (6282.00 5652.00) TOP/BOTTOM 
-  GND_9                VIA                  (7425.00 5920.00) TOP/BOTTOM 
-  GND_9                VIA                  (7425.00 5720.00) TOP/BOTTOM 
-  GND_9                VIA                  (7425.00 6145.00) TOP/BOTTOM 
-  GND_9                VIA                  (7425.00 6345.00) TOP/BOTTOM 
-  GND_9                VIA                  (7425.00 6545.00) TOP/BOTTOM 
-  GND_9                VIA                  (7100.00 6645.00) TOP/BOTTOM 
-  GND_9                VIA                  (7100.00 6895.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_9 VIA_40               (6200.00 5820.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_8 VIA_40               (3600.00 5820.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_7 VIA_40               (1000.00 5820.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_6 VIA_40               (6200.00 3220.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_5 VIA_40               (3600.00 3220.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_4 VIA_40               (1000.00 3220.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_3 VIA_40               (6200.00 620.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_2 VIA_40               (3600.00 620.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_13_1 VIA_40               (1000.00 620.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_9 VIA_40               (6275.00 5945.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_8 VIA_40               (3675.00 5945.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_7 VIA_40               (1075.00 5945.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_6 VIA_40               (6275.00 3345.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_5 VIA_40               (3675.00 3345.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_4 VIA_40               (1075.00 3345.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_3 VIA_40               (6275.00 745.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_2 VIA_40               (3675.00 745.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_12_1 VIA_40               (1075.00 745.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_9 VIA_40               (6200.00 6070.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_8 VIA_40               (3600.00 6070.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_7 VIA_40               (1000.00 6070.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_6 VIA_40               (6200.00 3470.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_5 VIA_40               (3600.00 3470.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_4 VIA_40               (1000.00 3470.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_3 VIA_40               (6200.00 870.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_2 VIA_40               (3600.00 870.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_11_1 VIA_40               (1000.00 870.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_9 VIA_40               (6282.00 6227.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_8 VIA_40               (3682.00 6227.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_7 VIA_40               (1082.00 6227.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_6 VIA_40               (6282.00 3627.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_5 VIA_40               (3682.00 3627.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_4 VIA_40               (1082.00 3627.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_3 VIA_40               (6282.00 1027.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_2 VIA_40               (3682.00 1027.00) TOP/BOTTOM 
+  UNNAMED_1_CONN14_I18_10_1 VIA_40               (1082.00 1027.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7100.00 6895.00) TOP/BOTTOM 
+  GND_9                VIA_40               (6282.00 5652.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7425.00 5720.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7425.00 5920.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7425.00 6145.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7100.00 6645.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7425.00 6345.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7425.00 6545.00) TOP/BOTTOM 
+  GND_9                VIA_40               (7100.00 6770.00) TOP/BOTTOM 
   GND_9                VIA110X150           (7275.00 7045.00) TOP/BOTTOM 
-  GND_8                VIA                  (4500.00 6770.00) TOP/BOTTOM 
-  GND_8                VIA                  (3682.00 5652.00) TOP/BOTTOM 
-  GND_8                VIA                  (4825.00 5920.00) TOP/BOTTOM 
-  GND_8                VIA                  (4825.00 5720.00) TOP/BOTTOM 
-  GND_8                VIA                  (4825.00 6145.00) TOP/BOTTOM 
-  GND_8                VIA                  (4825.00 6345.00) TOP/BOTTOM 
-  GND_8                VIA                  (4825.00 6545.00) TOP/BOTTOM 
-  GND_8                VIA                  (4500.00 6645.00) TOP/BOTTOM 
-  GND_8                VIA                  (4500.00 6895.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4500.00 6895.00) TOP/BOTTOM 
+  GND_8                VIA_40               (3682.00 5652.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4825.00 5720.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4825.00 5920.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4825.00 6145.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4500.00 6645.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4825.00 6345.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4825.00 6545.00) TOP/BOTTOM 
+  GND_8                VIA_40               (4500.00 6770.00) TOP/BOTTOM 
   GND_8                VIA110X150           (4675.00 7045.00) TOP/BOTTOM 
-  GND_7                VIA                  (1900.00 6770.00) TOP/BOTTOM 
-  GND_7                VIA                  (1082.00 5652.00) TOP/BOTTOM 
-  GND_7                VIA                  (2225.00 5920.00) TOP/BOTTOM 
-  GND_7                VIA                  (2225.00 5720.00) TOP/BOTTOM 
-  GND_7                VIA                  (2225.00 6145.00) TOP/BOTTOM 
-  GND_7                VIA                  (2225.00 6345.00) TOP/BOTTOM 
-  GND_7                VIA                  (2225.00 6545.00) TOP/BOTTOM 
-  GND_7                VIA                  (1900.00 6645.00) TOP/BOTTOM 
-  GND_7                VIA                  (1900.00 6895.00) TOP/BOTTOM 
+  GND_7                VIA_40               (1900.00 6895.00) TOP/BOTTOM 
+  GND_7                VIA_40               (1082.00 5652.00) TOP/BOTTOM 
+  GND_7                VIA_40               (2225.00 5720.00) TOP/BOTTOM 
+  GND_7                VIA_40               (2225.00 5920.00) TOP/BOTTOM 
+  GND_7                VIA_40               (2225.00 6145.00) TOP/BOTTOM 
+  GND_7                VIA_40               (1900.00 6645.00) TOP/BOTTOM 
+  GND_7                VIA_40               (2225.00 6345.00) TOP/BOTTOM 
+  GND_7                VIA_40               (2225.00 6545.00) TOP/BOTTOM 
+  GND_7                VIA_40               (1900.00 6770.00) TOP/BOTTOM 
   GND_7                VIA110X150           (2075.00 7045.00) TOP/BOTTOM 
-  GND_6                VIA                  (7100.00 4170.00) TOP/BOTTOM 
-  GND_6                VIA                  (6282.00 3052.00) TOP/BOTTOM 
-  GND_6                VIA                  (7425.00 3320.00) TOP/BOTTOM 
-  GND_6                VIA                  (7425.00 3120.00) TOP/BOTTOM 
-  GND_6                VIA                  (7425.00 3545.00) TOP/BOTTOM 
-  GND_6                VIA                  (7425.00 3745.00) TOP/BOTTOM 
-  GND_6                VIA                  (7425.00 3945.00) TOP/BOTTOM 
-  GND_6                VIA                  (7100.00 4045.00) TOP/BOTTOM 
-  GND_6                VIA                  (7100.00 4295.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7100.00 4295.00) TOP/BOTTOM 
+  GND_6                VIA_40               (6282.00 3052.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7425.00 3120.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7425.00 3320.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7425.00 3545.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7100.00 4045.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7425.00 3745.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7425.00 3945.00) TOP/BOTTOM 
+  GND_6                VIA_40               (7100.00 4170.00) TOP/BOTTOM 
   GND_6                VIA110X150           (7275.00 4445.00) TOP/BOTTOM 
-  GND_5                VIA                  (4500.00 4170.00) TOP/BOTTOM 
-  GND_5                VIA                  (3682.00 3052.00) TOP/BOTTOM 
-  GND_5                VIA                  (4825.00 3320.00) TOP/BOTTOM 
-  GND_5                VIA                  (4825.00 3120.00) TOP/BOTTOM 
-  GND_5                VIA                  (4825.00 3545.00) TOP/BOTTOM 
-  GND_5                VIA                  (4825.00 3745.00) TOP/BOTTOM 
-  GND_5                VIA                  (4825.00 3945.00) TOP/BOTTOM 
-  GND_5                VIA                  (4500.00 4045.00) TOP/BOTTOM 
-  GND_5                VIA                  (4500.00 4295.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4500.00 4295.00) TOP/BOTTOM 
+  GND_5                VIA_40               (3682.00 3052.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4825.00 3120.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4825.00 3320.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4825.00 3545.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4500.00 4045.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4825.00 3745.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4825.00 3945.00) TOP/BOTTOM 
+  GND_5                VIA_40               (4500.00 4170.00) TOP/BOTTOM 
   GND_5                VIA110X150           (4675.00 4445.00) TOP/BOTTOM 
-  GND_4                VIA                  (1900.00 4170.00) TOP/BOTTOM 
-  GND_4                VIA                  (1082.00 3052.00) TOP/BOTTOM 
-  GND_4                VIA                  (2225.00 3320.00) TOP/BOTTOM 
-  GND_4                VIA                  (2225.00 3120.00) TOP/BOTTOM 
-  GND_4                VIA                  (2225.00 3545.00) TOP/BOTTOM 
-  GND_4                VIA                  (2225.00 3745.00) TOP/BOTTOM 
-  GND_4                VIA                  (2225.00 3945.00) TOP/BOTTOM 
-  GND_4                VIA                  (1900.00 4045.00) TOP/BOTTOM 
-  GND_4                VIA                  (1900.00 4295.00) TOP/BOTTOM 
+  GND_4                VIA_40               (1900.00 4295.00) TOP/BOTTOM 
+  GND_4                VIA_40               (1082.00 3052.00) TOP/BOTTOM 
+  GND_4                VIA_40               (2225.00 3120.00) TOP/BOTTOM 
+  GND_4                VIA_40               (2225.00 3320.00) TOP/BOTTOM 
+  GND_4                VIA_40               (2225.00 3545.00) TOP/BOTTOM 
+  GND_4                VIA_40               (1900.00 4045.00) TOP/BOTTOM 
+  GND_4                VIA_40               (2225.00 3745.00) TOP/BOTTOM 
+  GND_4                VIA_40               (2225.00 3945.00) TOP/BOTTOM 
+  GND_4                VIA_40               (1900.00 4170.00) TOP/BOTTOM 
   GND_4                VIA110X150           (2075.00 4445.00) TOP/BOTTOM 
-  GND_3                VIA                  (7100.00 1570.00) TOP/BOTTOM 
-  GND_3                VIA                  (6282.00 452.00) TOP/BOTTOM 
-  GND_3                VIA                  (7425.00 720.00) TOP/BOTTOM 
-  GND_3                VIA                  (7425.00 520.00) TOP/BOTTOM 
-  GND_3                VIA                  (7425.00 945.00) TOP/BOTTOM 
-  GND_3                VIA                  (7425.00 1145.00) TOP/BOTTOM 
-  GND_3                VIA                  (7425.00 1345.00) TOP/BOTTOM 
-  GND_3                VIA                  (7100.00 1445.00) TOP/BOTTOM 
-  GND_3                VIA                  (7100.00 1695.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7100.00 1695.00) TOP/BOTTOM 
+  GND_3                VIA_40               (6282.00 452.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7425.00 520.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7425.00 720.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7425.00 945.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7100.00 1445.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7425.00 1145.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7425.00 1345.00) TOP/BOTTOM 
+  GND_3                VIA_40               (7100.00 1570.00) TOP/BOTTOM 
   GND_3                VIA110X150           (7275.00 1845.00) TOP/BOTTOM 
-  GND_2                VIA                  (4500.00 1570.00) TOP/BOTTOM 
-  GND_2                VIA                  (3682.00 452.00) TOP/BOTTOM 
-  GND_2                VIA                  (4825.00 720.00) TOP/BOTTOM 
-  GND_2                VIA                  (4825.00 520.00) TOP/BOTTOM 
-  GND_2                VIA                  (4825.00 945.00) TOP/BOTTOM 
-  GND_2                VIA                  (4825.00 1145.00) TOP/BOTTOM 
-  GND_2                VIA                  (4825.00 1345.00) TOP/BOTTOM 
-  GND_2                VIA                  (4500.00 1445.00) TOP/BOTTOM 
-  GND_2                VIA                  (4500.00 1695.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4500.00 1695.00) TOP/BOTTOM 
+  GND_2                VIA_40               (3682.00 452.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4825.00 520.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4825.00 720.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4825.00 945.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4500.00 1445.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4825.00 1145.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4825.00 1345.00) TOP/BOTTOM 
+  GND_2                VIA_40               (4500.00 1570.00) TOP/BOTTOM 
   GND_2                VIA110X150           (4675.00 1845.00) TOP/BOTTOM 
-  GND_1                VIA                  (1900.00 1570.00) TOP/BOTTOM 
-  GND_1                VIA                  (1082.00 452.00) TOP/BOTTOM 
-  GND_1                VIA                  (2225.00 720.00) TOP/BOTTOM 
-  GND_1                VIA                  (2225.00 520.00) TOP/BOTTOM 
-  GND_1                VIA                  (2225.00 945.00) TOP/BOTTOM 
-  GND_1                VIA                  (2225.00 1145.00) TOP/BOTTOM 
-  GND_1                VIA                  (2225.00 1345.00) TOP/BOTTOM 
-  GND_1                VIA                  (1900.00 1445.00) TOP/BOTTOM 
-  GND_1                VIA                  (1900.00 1695.00) TOP/BOTTOM 
+  GND_1                VIA_40               (1900.00 1695.00) TOP/BOTTOM 
+  GND_1                VIA_40               (1082.00 452.00) TOP/BOTTOM 
+  GND_1                VIA_40               (2225.00 520.00) TOP/BOTTOM 
+  GND_1                VIA_40               (2225.00 720.00) TOP/BOTTOM 
+  GND_1                VIA_40               (2225.00 945.00) TOP/BOTTOM 
+  GND_1                VIA_40               (1900.00 1445.00) TOP/BOTTOM 
+  GND_1                VIA_40               (2225.00 1145.00) TOP/BOTTOM 
+  GND_1                VIA_40               (2225.00 1345.00) TOP/BOTTOM 
+  GND_1                VIA_40               (1900.00 1570.00) TOP/BOTTOM 
   GND_1                VIA110X150           (2075.00 1845.00) TOP/BOTTOM 
-  ACC_9                VIA                  (7125.00 6445.00) TOP/BOTTOM 
-  ACC_8                VIA                  (4525.00 6445.00) TOP/BOTTOM 
-  ACC_7                VIA                  (1925.00 6445.00) TOP/BOTTOM 
-  ACC_6                VIA                  (7125.00 3845.00) TOP/BOTTOM 
-  ACC_5                VIA                  (4525.00 3845.00) TOP/BOTTOM 
-  ACC_4                VIA                  (1925.00 3845.00) TOP/BOTTOM 
-  ACC_3                VIA                  (7125.00 1245.00) TOP/BOTTOM 
-  ACC_2                VIA                  (4525.00 1245.00) TOP/BOTTOM 
-  ACC_1                VIA                  (1925.00 1245.00) TOP/BOTTOM 
+  ACC_9                VIA_40               (7125.00 6445.00) TOP/BOTTOM 
+  ACC_8                VIA_40               (4525.00 6445.00) TOP/BOTTOM 
+  ACC_7                VIA_40               (1925.00 6445.00) TOP/BOTTOM 
+  ACC_6                VIA_40               (7125.00 3845.00) TOP/BOTTOM 
+  ACC_5                VIA_40               (4525.00 3845.00) TOP/BOTTOM 
+  ACC_4                VIA_40               (1925.00 3845.00) TOP/BOTTOM 
+  ACC_3                VIA_40               (7125.00 1245.00) TOP/BOTTOM 
+  ACC_2                VIA_40               (4525.00 1245.00) TOP/BOTTOM 
+  ACC_1                VIA_40               (1925.00 1245.00) TOP/BOTTOM 
   -HV_9                VIA-1-1              (7150.00 7320.00) TOP/BOTTOM 
   -HV_8                VIA-1-1              (4550.00 7320.00) TOP/BOTTOM 
   -HV_7                VIA-1-1              (1950.00 7320.00) TOP/BOTTOM 
@@ -323,5 +359,5 @@ Report methodology:
 
 << Summary >>
   Total dangling lines:       0
-  Total dangling vias:      144
+  Total dangling vias:      180
   Total antenna vias:       144

@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    RENAME REFDES                                                    )
+(                                                                     )
+(    Drawing          : divider_v1.brd                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri May 26 23:13:39 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Renaming components on BOTH_SIDES on entire BOARD
+    Extents: (-9950.00,-10305.00) (24050.00,11695.00)
+
+Sequencing the Reference Designators SEQUENTIALLY  
+Row processing direction : to the RIGHT, from the top down. 
+
+OLD RT1    NEW RT1
+OLD JT1    NEW JT1
+OLD RT2    NEW RT2
+OLD RT3    NEW RT3
+OLD RT4    NEW RT4
+OLD RT5    NEW RT5
+OLD RT6    NEW RT6
+OLD RT7    NEW RT7
+OLD RT8    NEW RT8
+OLD RT9    NEW RT9
+OLD RT10    NEW RT10
+OLD RT11    NEW RT11
+OLD RT12    NEW RT12
+OLD RT13    NEW RT13
+OLD RT14    NEW RT14
+OLD RT15    NEW RT15
+OLD JT2    NEW JT2
+OLD RT16    NEW RT16
+OLD RT17    NEW RT17
+Sequencing the Reference Designators SEQUENTIALLY  
+Row processing direction : to the LEFT, from the top down. 
+
+Processing BOTTOM but JT2 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but JT1 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT14 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT12 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT9 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT16 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT10 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT6 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT4 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT2 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT17 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT13 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT7 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT5 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT3 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT1 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT11 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT15 has AUTO_RENAME property for opposite side; ignored.
+Processing BOTTOM but RT8 has AUTO_RENAME property for opposite side; ignored.

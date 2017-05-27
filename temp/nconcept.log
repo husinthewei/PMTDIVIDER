@@ -1,0 +1,363 @@
+Allegro Design Entry HDL 16.6-p007 (v16-6-112F) 10/10/2012
+
+
+mpsdeclare
+mpsdeclare
+mpsdeclare
+mpsdeclare
+mpsdeclare
+mpsdeclare
+mpsdeclare
+set ORTHOG_wire
+set
+set move_ORTHOG
+set
+set autoroute ON
+set
+set autoheavy ON
+set
+set attributes_dir "C:\Cadence\SPB_16.6/tools/fet/concept/attributes"
+set
+set dots_FILLED
+set
+set autodot ON
+set
+set logic_dot_radius 13
+set
+set body_dot_radius 13
+set
+set tap_body CTAP
+set
+set size 1.000
+set
+set LEFT
+set
+set capslock_ON
+set
+set inline_textedit ON
+set
+set user_editor "notepad"
+set
+set prop_display VALUE
+set
+set pinprop_vis OFF
+set
+set pin_size 0.805
+set
+set rotate ON
+set
+set autopath ON
+set
+set sticky_OFF
+set
+set rmb OFF
+set
+set autopan OFF
+set
+set image_color_wire default
+set
+set image_color_dot default
+set
+set image_color_body default
+set
+set image_color_arc default
+set
+set image_color_prop default
+set
+set image_color_occprop default
+set
+set image_color_note default
+set
+set image_background_color black
+set
+set color_wire yellow
+set
+set color_dot white
+set
+set color_body green
+set
+set color_arc yellow
+set
+set color_prop orange
+set
+set occ_color red
+set
+set color_note purple
+set
+set background_color white
+set
+set highlight_color "default"
+set
+set DECIMAL
+set
+set default_grid OFF
+set
+set default_grid DOTS
+set
+set default_body_grid OFF
+set
+set default_body_grid DOTS
+set
+set default_doc_grid OFF
+set
+set default_doc_grid DOTS
+set
+set check_on_write ON
+set
+set check_missing_pins ON
+set
+set check_shorted_pin ON
+set
+set check_unconn_wires ON
+set
+set check_voltage_on_hdl ON
+set
+set check_parts_at_same_loc ON
+set
+set check_arcs_at_same_loc ON
+set
+set check_hidden_wires ON
+set
+set check_pins_at_origin ON
+set
+set check_pin_near_wire_endpt ON
+set
+set check_pin_wire_dist_thresh "DEFAULT"
+set
+set check_two_wires_at_pins ON
+set
+set check_signames ON
+set
+set check_signame_in_body ON
+set
+set check_body_place_holders ON
+set
+set check_prop_place_holders ON
+set
+set check_pack_sec_type_props ON
+set
+set check_nonsyncprops ON
+set
+set confirm_write OFF
+set
+set ascii
+set
+set delete_ascii OFF
+set
+set binary
+set
+set delete_binary OFF
+set
+set nodependency
+set
+set hdl_direct on
+set
+set click_to_type ON
+set
+set save_workspace ON
+set
+set addform ON
+set
+set editform ON
+set
+set libform ON
+set
+set catpath 
+set
+Unknown project directive : FATAL_MESSAGES
+Unknown project directive : ERROR_MESSAGES
+Unknown project directive : INFORMATIONAL_MESSAGES
+Unknown project directive : WARNING_MESSAGES
+set wplot_thin_width 1
+set
+set wplot_thick_width 10
+set
+set wplot_scale 100
+set
+set wplot_adjust_scale
+set
+set wplot_sheet
+set
+set wplot_dpi -1
+set
+WARNING(SPCOCN-2040): Specify the command "page forcereset all" to reset logical page numbers of all pages of this block.
+set multiformat_vectors ON
+set
+set ppt_optionset_path ""
+set
+set ppt_browser OFF
+set
+set lmb ON
+set
+set path_prefix "I"
+set
+set check_global_local_short ON
+set
+set max_drawings "50"
+set
+set modify_multiprop OFF
+set
+set check_power_props ON
+set
+set allow_power_pins ON
+set
+set powerprop_vis VALUE
+set
+set pathprop_invisible OFF
+set
+set allow_property_locking ON
+set
+set retver_replace OFF
+set
+set allow_comp_overlap OFF
+set
+set retain_location_on_copyall ON
+set
+set expand_before_global_navigate PROMPT
+set
+set check_page_synch ON
+set
+set dont_annotate_opt_value OFF
+set
+set retain_prev_hilite OFF
+set
+set lock_for_same_user OFF
+set
+set sync_on_page_edit OFF
+set
+set generate_sch_metadata OFF
+set
+set hardloc_copy ON
+set
+set allow_page_locking ON
+set
+set thick_block_border OFF
+set
+set thick_vector_pin_width OFF
+set
+set show_pnn_signame OFF
+set
+set hide_hierarchy_pages OFF
+set
+WARNING(SPCOCN-1523): Invalid set option: <OFF>
+set page_name_prop ""
+set
+set page_name_case PRESERVE
+set
+set preserve_zoom_info ON
+set
+set lock_file_perm 444
+set
+set custom_cdslib_search ON
+set
+set replace_ptf_props OFF
+set
+set ign_quotes_mps_msg OFF
+set
+Unknown project directive : SHOW_UNCONNECTED_PINS
+set honor_sch_custom_texts off
+set
+set hyperlinks on
+set
+WARNING(SPCOCN-1523): Invalid set option: <on>
+set use_mono_as_symbol_color off
+set
+set preselect_flag off
+set
+set windowsmode_flag off
+set
+WARNING(SPCOCN-1523): Invalid set option: <off>
+set delete_unattached_invisible_props ON
+set
+set honor_pptoptions_on_modify OFF
+set
+set check_grid_on_tap ON
+set
+set retain_font_settings_on_symbol_add ON
+set
+set retain_font_settings_on_symbol_ba ON
+set
+set search_history_count 5
+set
+WARNING(SPCOCN-1523): Invalid set option: <search_history_count>
+INFO(SPCOCN-1177): Unexpected text: <5>
+set search_history 
+set
+WARNING(SPCOCN-1523): Invalid set option: <search_history>
+set search_toolbar_lookin PAGE
+set
+WARNING(SPCOCN-1523): Invalid set option: <search_toolbar_lookin>
+INFO(SPCOCN-1177): Unexpected text: <PAGE>
+set update_lower_level_cm OFF
+set
+set disallow_design_load_thread OFF
+set
+set cm_always_active OFF
+set
+set donot_reuse_path OFF
+set
+set allow_prop_on_prop OFF
+set
+set invisible_pn_overlay OFF
+set
+set modify_quick_reset_filters OFF
+set
+WARNING(SPCOCN-1523): Invalid set option: <modify_quick_reset_filters>
+INFO(SPCOCN-1177): Unexpected text: <OFF>
+set multisig_error OFF
+set
+set wait_seconds_for_conn_lock 0
+set
+set autoupdate_on_port_mismatch ON
+set
+set write_find_mkr_file OFF
+set
+set honor_source_modorder_on_reimport OFF
+set
+set hss_partial_instantiation OFF
+set
+set hss_vector_ports_same_symb ON
+set
+set hss_distribute_ports_method PORTCOUNT
+set
+set hss_distribute_ports_count 25
+set
+WARNING(SPCOCN-1523): Invalid set option: <hss_distribute_ports_count>
+INFO(SPCOCN-1177): Unexpected text: <25>
+set hss_distribute_port_pattern 
+set
+WARNING(SPCOCN-1523): Invalid set option: <hss_distribute_port_pattern>
+set check_ibd_invalid_itaps OFF
+set
+set ibd_attach_mode OFF
+set
+set hss_sym_1_full ON
+set
+set hss_distribute_property_name 
+set
+WARNING(SPCOCN-1523): Invalid set option: <hss_distribute_property_name>
+set default_grid 0.100 5
+set
+set default_body_grid 0.050 2
+set
+set default_doc_grid 0.100 5
+set
+INFO(SPCOCN-1737): Reading C:\Users\HEP\Documents\GitHub\PMTDivider\cds.lib file.
+nmapedit pmtdividerboard
+nmapedit
+_!editincontext
+INFO(SPCOCN-1446): New schematic PMTDIVIDERBOARD.SCH.1.1 started as drawing #1.
+library
+library
+library
+library
+library
+get
+INFO(SPCOCN-1445): Reading PMTDIVIDERBOARD.SCH.1.1 into drawing #1.
+_!syncannotate
+get
+INFO(SPCOCN-1445): Reading PMTDIVIDERBOARD.SCH.1.1 into drawing #1.
+backannotate
+nmapedit
+_!editincontext
+exit

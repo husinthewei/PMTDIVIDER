@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : divider.brd                                   )
+(    Drawing          : dividers_v2.brd                               )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue May 23 14:49:14 2017                      )
+(    Date/Time        : Sat May 27 00:24:22 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,7 +19,8 @@
  ========= check standalone lines             0:00:00
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
- DRC update aborted by user
+
+ ..... Total number of DRC errors  0
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

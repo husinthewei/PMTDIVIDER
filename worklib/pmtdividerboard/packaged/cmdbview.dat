@@ -1,0 +1,1168 @@
+; run on Fri May 26 16:35:57 2017 CONSTRAINTS_VIEW_GENERATED
+( ConstraintFile "@pmtdivider_lib.pmtdividerboard(sch_1)"
+	( constraintHeader
+		( objectKey
+			( logical )
+		)
+		( version
+			( 16.6 )
+		)
+		( revisionNumber
+			( logicalViewRevNum 5 )
+			( physicalViewRevNum 1 )
+			( otherViewRevNum 0 )
+		)
+		( contents
+			( drawing )
+			( dictionaryExtensions )
+			( worksheetCustomizations )
+			( crossSection )
+			( electricalConstraints )
+			( physicalConstraints )
+			( spacingConstraints )
+			( sameNetSpacingConstraints )
+			( netClasses )
+			( properties )
+		)
+		( precision
+			( units mil )
+			( numberOfDecimalPlaces 2 )
+		)
+	)
+	( drawing
+		( attribute "DRAWING_EXTENTS" "34000.00,22000.00"
+		)
+		( attribute "DRAWING_LOWER_LEFT" "-8400.00,-13400.00"
+		)
+	)
+	( DictionaryExtensions
+	)
+	( crossSection
+		( layer "SURFACE_INDEX_0"
+			( attribute "CDS_LAYER_TYPE" "SURFACE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "AIR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "0.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "1.000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "TOP"
+			( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "COPPER"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "1.20"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "595900"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "4.500"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_NAMED" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_TOP_SUBSTRATE" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ETCH_FACTOR" "90.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_EMBEDDED_STATUS" "NOT_EMBEDDED"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "DIELECTRIC_BELOW_TOP"
+			( attribute "CDS_LAYER_TYPE" "DIELECTRIC"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "FR-4"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "8.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "4.500"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.03500"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "BOTTOM"
+			( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "COPPER"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "1.20"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "595900"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "4.500"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_NAMED" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_BOTTOM_SUBSTRATE" "1"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ETCH_FACTOR" "90.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_EMBEDDED_STATUS" "NOT_EMBEDDED"
+				( Origin gBackEnd )
+			)
+		)
+		( layer "SURFACE_BELOW_BOTTOM"
+			( attribute "CDS_LAYER_TYPE" "SURFACE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_MATERIAL" "AIR"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THICKNESS" "0.00"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+				( Units "uElectricalConductivity" "mho/cm" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0000"
+				( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "1.000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+				( Origin gBackEnd )
+			)
+			( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+				( Origin gBackEnd )
+			)
+		)
+	)
+	( designConstraints
+		( ruleChanges
+			( allRules )
+			( design "@pmtdivider_lib.pmtdividerboard(sch_1)"
+				( physicalCSetRef "@pmtdivider_lib.pmtdividerboard(sch_1):\DEFAULT\" )
+				( spacingCSetRef "@pmtdivider_lib.pmtdividerboard(sch_1):\DEFAULT\" )
+				( sameNetSpacingCSetRef "@pmtdivider_lib.pmtdividerboard(sch_1):\DEFAULT\" )
+				( objectStatus "dividers_v1" )
+			)
+			( physicalCSet "@pmtdivider_lib.pmtdividerboard(sch_1):\DEFAULT\"
+				( attribute "DIFFP_PRIMARY_GAP" "0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "DIFFP_COUPLED_PLUS" "0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "DIFFP_COUPLED_MINUS" "0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "DIFFP_MIN_SPACE" "0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MIN_LINE_WIDTH" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MAX_LINE_WIDTH" "0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "DIFFP_NECK_GAP" "0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MIN_NECK_WIDTH" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MAXIMUM_NECK_LENGTH" "0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "VIA_LIST" "VIA"
+					( Origin gBackEnd )
+				)
+				( attribute "ALLOW_ON_ETCH_SUBCLASS" "TRUE,TRUE"
+					( Origin gBackEnd )
+				)
+				( attribute "TS_ALLOWED" "ANYWHERE,ANYWHERE"
+					( Origin gBackEnd )
+				)
+				( attribute "MIN_BVIA_STAGGER" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MAX_BVIA_STAGGER" "0.00,0.00"
+					( Origin gBackEnd )
+				)
+				( attribute "PAD_PAD_DIRECT_CONNECT" "ALL_ALLOWED,ALL_ALLOWED"
+					( Origin gBackEnd )
+				)
+				( objectStatus "DEFAULT" )
+			)
+			( spacingCSet "@pmtdivider_lib.pmtdividerboard(sch_1):\DEFAULT\"
+				( attribute "THRUPIN_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTVIA_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_BONDPAD_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUPIN_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SMDPIN_TO_BONDPAD_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTPIN_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "THRUVIA_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTVIA_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "TESTVIA_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_BBV_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_BBV_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_LINE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BBV_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_BONDPAD_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_LINE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_LINE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "LINE_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SHAPE_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_PIN_SPACING" "8.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_VIA_SPACING" "8.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_LINE_SPACING" "8.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_SHAPE_SPACING" "8.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "HOLE_TO_HOLE_SPACING" "8.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_MVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_BBV_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_LINE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MVIA_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_MVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "MIN_BVIA_GAP" "5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "BONDPAD_TO_BONDPAD_DIFFP_SPC" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( objectStatus "DEFAULT" )
+			)
+			( sameNetSpacingCSet "@pmtdivider_lib.pmtdividerboard(sch_1):\DEFAULT\"
+				( attribute "SAME_NET" "TRUE,TRUE"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUPIN_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUPIN_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTPIN_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUPIN_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTVIA_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUPIN_TO_BONDPAD_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUPIN_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SMDPIN_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SMDPIN_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SMDPIN_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SMDPIN_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SMDPIN_TO_BONDPAD_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SHAPE_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTPIN_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTPIN_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTPIN_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SHAPE_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_THRUVIA_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTVIA_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SHAPE_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_TESTVIA_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SHAPE_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_BBV_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_BBV_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_LINE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BBV_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_BONDPAD_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_LINE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_LINE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_LINE_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_SHAPE_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_HOLE_TO_PIN_SPACING" "8.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_HOLE_TO_VIA_SPACING" "8.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_HOLE_TO_LINE_SPACING" "8.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_HOLE_TO_SHAPE_SPACING" "8.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_HOLE_TO_HOLE_SPACING" "8.00,8.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_MVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_THRUPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_SMDPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_THRUVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_BBV_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_LINE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_SHAPE_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_TESTPIN_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_MVIA_TO_TESTVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( attribute "SN_BONDPAD_TO_MVIA_SPACING" "5.00,5.00"
+					( Origin gBackEnd )
+				)
+				( objectStatus "DEFAULT" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18"
+				( objectStatus "F170" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18"
+				( objectStatus "F169" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18"
+				( objectStatus "F168" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18"
+				( objectStatus "F167" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18"
+				( objectStatus "F166" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18"
+				( objectStatus "F165" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18"
+				( objectStatus "F164" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18"
+				( objectStatus "F163" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i18"
+				( objectStatus "F162" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19"
+				( objectStatus "F161" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19"
+				( objectStatus "F160" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19"
+				( objectStatus "F159" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19"
+				( objectStatus "F158" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19"
+				( objectStatus "F157" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19"
+				( objectStatus "F156" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19"
+				( objectStatus "F155" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19"
+				( objectStatus "F154" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i19"
+				( objectStatus "F153" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15"
+				( objectStatus "F152" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15"
+				( objectStatus "F151" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15"
+				( objectStatus "F150" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15"
+				( objectStatus "F149" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15"
+				( objectStatus "F148" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15"
+				( objectStatus "F147" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15"
+				( objectStatus "F146" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15"
+				( objectStatus "F145" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i15"
+				( objectStatus "F144" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17"
+				( objectStatus "F143" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17"
+				( objectStatus "F142" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17"
+				( objectStatus "F141" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17"
+				( objectStatus "F140" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17"
+				( objectStatus "F139" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17"
+				( objectStatus "F138" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17"
+				( objectStatus "F137" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17"
+				( objectStatus "F136" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i17"
+				( objectStatus "F135" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16"
+				( objectStatus "F134" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16"
+				( objectStatus "F133" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16"
+				( objectStatus "F132" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16"
+				( objectStatus "F131" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16"
+				( objectStatus "F130" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16"
+				( objectStatus "F129" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16"
+				( objectStatus "F128" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16"
+				( objectStatus "F127" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i16"
+				( objectStatus "F126" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3"
+				( objectStatus "F125" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3"
+				( objectStatus "F124" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3"
+				( objectStatus "F123" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3"
+				( objectStatus "F122" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3"
+				( objectStatus "F121" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3"
+				( objectStatus "F120" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3"
+				( objectStatus "F119" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3"
+				( objectStatus "F118" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i3"
+				( objectStatus "F117" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12"
+				( objectStatus "F116" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12"
+				( objectStatus "F115" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12"
+				( objectStatus "F114" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12"
+				( objectStatus "F113" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12"
+				( objectStatus "F112" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12"
+				( objectStatus "F111" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12"
+				( objectStatus "F110" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12"
+				( objectStatus "F109" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i12"
+				( objectStatus "F108" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6"
+				( objectStatus "F107" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6"
+				( objectStatus "F106" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6"
+				( objectStatus "F105" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6"
+				( objectStatus "F104" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6"
+				( objectStatus "F103" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6"
+				( objectStatus "F102" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6"
+				( objectStatus "F101" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6"
+				( objectStatus "F100" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i6"
+				( objectStatus "F99" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7"
+				( objectStatus "F98" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7"
+				( objectStatus "F97" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7"
+				( objectStatus "F96" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7"
+				( objectStatus "F95" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7"
+				( objectStatus "F94" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7"
+				( objectStatus "F93" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7"
+				( objectStatus "F92" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7"
+				( objectStatus "F91" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i7"
+				( objectStatus "F90" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8"
+				( objectStatus "F89" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8"
+				( objectStatus "F88" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8"
+				( objectStatus "F87" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8"
+				( objectStatus "F86" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8"
+				( objectStatus "F85" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8"
+				( objectStatus "F84" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8"
+				( objectStatus "F83" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8"
+				( objectStatus "F82" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i8"
+				( objectStatus "F81" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9"
+				( objectStatus "F80" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9"
+				( objectStatus "F79" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9"
+				( objectStatus "F78" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9"
+				( objectStatus "F77" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9"
+				( objectStatus "F76" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9"
+				( objectStatus "F75" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9"
+				( objectStatus "F74" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9"
+				( objectStatus "F73" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i9"
+				( objectStatus "F72" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10"
+				( objectStatus "F71" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10"
+				( objectStatus "F70" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10"
+				( objectStatus "F69" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10"
+				( objectStatus "F68" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10"
+				( objectStatus "F67" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10"
+				( objectStatus "F66" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10"
+				( objectStatus "F65" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10"
+				( objectStatus "F64" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i10"
+				( objectStatus "F63" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11"
+				( objectStatus "F62" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11"
+				( objectStatus "F61" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11"
+				( objectStatus "F60" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11"
+				( objectStatus "F59" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11"
+				( objectStatus "F58" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11"
+				( objectStatus "F57" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11"
+				( objectStatus "F56" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11"
+				( objectStatus "F55" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i11"
+				( objectStatus "F54" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2"
+				( objectStatus "F53" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2"
+				( objectStatus "F52" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2"
+				( objectStatus "F51" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2"
+				( objectStatus "F50" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2"
+				( objectStatus "F49" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2"
+				( objectStatus "F48" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2"
+				( objectStatus "F47" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2"
+				( objectStatus "F46" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i2"
+				( objectStatus "F45" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5"
+				( objectStatus "F44" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5"
+				( objectStatus "F43" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5"
+				( objectStatus "F42" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5"
+				( objectStatus "F41" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5"
+				( objectStatus "F40" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5"
+				( objectStatus "F39" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5"
+				( objectStatus "F38" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5"
+				( objectStatus "F37" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i5"
+				( objectStatus "F36" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4"
+				( objectStatus "F35" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4"
+				( objectStatus "F34" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4"
+				( objectStatus "F33" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4"
+				( objectStatus "F32" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4"
+				( objectStatus "F31" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4"
+				( objectStatus "F30" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4"
+				( objectStatus "F29" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4"
+				( objectStatus "F28" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i4"
+				( objectStatus "F27" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1"
+				( objectStatus "F26" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1"
+				( objectStatus "F25" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1"
+				( objectStatus "F24" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1"
+				( objectStatus "F23" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1"
+				( objectStatus "F22" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1"
+				( objectStatus "F21" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1"
+				( objectStatus "F20" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1"
+				( objectStatus "F19" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i1"
+				( objectStatus "F18" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13"
+				( objectStatus "F17" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13"
+				( objectStatus "F16" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13"
+				( objectStatus "F15" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13"
+				( objectStatus "F14" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13"
+				( objectStatus "F13" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13"
+				( objectStatus "F12" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13"
+				( objectStatus "F11" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13"
+				( objectStatus "F10" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i13"
+				( objectStatus "F9" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i1@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14"
+				( objectStatus "F8" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i2@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14"
+				( objectStatus "F7" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i3@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14"
+				( objectStatus "F6" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i4@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14"
+				( objectStatus "F5" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i5@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14"
+				( objectStatus "F4" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i6@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14"
+				( objectStatus "F3" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i7@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14"
+				( objectStatus "F2" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i8@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14"
+				( objectStatus "F1" )
+			)
+			( gate "@pmtdivider_lib.pmtdividerboard(sch_1):page1_i9@pmtdivider_lib.pmtdividercircuit(sch_1):page1_i14"
+				( objectStatus "F0" )
+			)
+		)
+	)
+)

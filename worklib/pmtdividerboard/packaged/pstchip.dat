@@ -1,5 +1,5 @@
 FILE_TYPE = LIBRARY_PARTS;
-{ Packager-XL run on 26-May-2017 AT 11:54:20 }
+{ Packager-XL run on 26-May-2017 AT 16:37:30 }
 primitive 'CONN14';
   pin
     '1':

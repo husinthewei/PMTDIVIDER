@@ -1,8 +1,8 @@
-Log File: C:\Users\HEP\AppData\Local\Temp\st8.
-Markers File: C:\Users\HEP\AppData\Local\Temp\st8.1
-Debug File: C:\Users\HEP\AppData\Local\Temp\st8.3
+Log File: C:\Users\HEP\AppData\Local\Temp\s3lk.
+Markers File: C:\Users\HEP\AppData\Local\Temp\s3lk.1
+Debug File: C:\Users\HEP\AppData\Local\Temp\s3lk.3
      Debug[0] := TRUE
-Elapsed time since start = (00:00:01)
+Elapsed time since start = (00:00:00)
 
  **************************************************************
  *  End processing project file and command line  (00:00:00)  *
@@ -193,7 +193,7 @@ Ref des for prim inst @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I9@PMTDIVIDER
 Ref des for prim inst @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I9@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I17@PARTS_LIB.CSMD1210(CHIPS) changed from C2_9:1 to C2_9:1.
 Ref des for prim inst @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I9@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I18@PARTS_LIB.CONN14(CHIPS) changed from J1_9:1 to J1_9:1.
 Ref des for prim inst @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I9@PMTDIVIDER_LIB.PMTDIVIDERCIRCUIT(SCH_1):PAGE1_I19@PARTS_LIB.CONN14(CHIPS) changed from J2_9:1 to J2_9:1.
-Elapsed time since start = (00:00:04)
+Elapsed time since start = (00:00:01)
 
  *****************************************
  *  End loading State Files  (00:00:00)  *
@@ -204,7 +204,7 @@ Elapsed time since start = (00:00:04)
  *  Starting to assign physical parts.  *
  ****************************************
 
-Elapsed time since start = (00:00:04)
+Elapsed time since start = (00:00:01)
 
  ***********************************************
  *  End assigning physical parts.  (00:00:00)  *
@@ -386,7 +386,7 @@ Ref des for prim inst @PMTDIVIDER_LIB.PMTDIVIDERBOARD(SCH_1):PAGE1_I9@PMTDIVIDER
  *  Packaging  *
  ***************
 
-Elapsed time since start = (00:00:04)
+Elapsed time since start = (00:00:01)
 
  *******************************
  *  End packaging  (00:00:00)  *
