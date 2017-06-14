@@ -1,0 +1,6 @@
+Click ncdrill legend at the top to add the via sizes
+Click Dimension Edit at the top to record the board dimensions
+Go to create ArtWork
+Add all of the films (Bottom, Top, etc) as in other the other projects
+You can do click for visibility to show it
+

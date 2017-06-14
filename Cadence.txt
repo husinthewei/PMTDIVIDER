@@ -65,6 +65,11 @@ Anything for ground and power, you want bigger vias (like size 40)
 usually size 20 for power
 lower for signal
 
+Make Module:
+make the module including the components in the schematic view
+export. route. create module in layout (in tools).
+Layout and schematic module names must be the same.
+
 What else:
 Modules
 Test points
